@@ -1,5 +1,9 @@
 # Software Engineering Notes
 
+# Web Developer Roadmap
+- [Kamran Ahmed's Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) (good resource for HTTP)
+- [Free Code Camp's 2019 Web Developer Roadmap](ttps://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+
 # Books
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
@@ -12,19 +16,17 @@
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 
-[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) (good resource for HTTP)
-
 # Practice writing small programs
-- https://exercism.io/
-- https://leetcode.com/
-- https://www.hackerrank.com/
-- https://adventofcode.com/
-- [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
+- [Exercism: Code practice and mentorship for everyone](https://exercism.io/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Advent of Code](https://adventofcode.com/)
+-- [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
 
 # Fix open bugs on open source projects
 
 # Study relational databases
-- https://use-the-index-luke.com/sql/table-of-contents
+- [Use the Index, Luke!](https://use-the-index-luke.com/sql/table-of-contents)
 
 # Practice building web applications from scratch
 - [Django](https://www.djangoproject.com/)
@@ -34,16 +36,16 @@
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 # Algorithms
-- https://teachyourselfcs.com/#algorithms
-- https://www.educative.io/m/data-structures
-- https://www.educative.io/m/recursion-interview
-- https://www.interviewcake.com/data-structures-and-algorithms-guide
-- https://www.interviewcake.com/
+- [Teach Yourself Computer Science - Algorithms](https://teachyourselfcs.com/#algorithms)
+- [Educative - Mastering Data Structures: An interview refresher](https://www.educative.io/m/data-structures)
+- [Educative - Recursion for Coding Interviews](https://www.educative.io/m/recursion-interview)
+- [Interview Cake - The Intuitive Guide to Data Structures & Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+- [Interview Cake](https://www.interviewcake.com/)
 
 # Join a MOOC (Massive Open Online Course)
-- https://www.coursera.org/
-- https://www.udacity.com/
-- https://www.educative.io/
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
+- [Educative](https://www.educative.io/)
 
 ## License
 
