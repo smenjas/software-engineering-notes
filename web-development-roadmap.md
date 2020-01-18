@@ -1,63 +1,69 @@
-# Free Code Camp Web Development Roadmap 2019
-https://www.freecodecamp.org/news/2019-web-developer-roadmap/
+# Web Development Roadmap
+My notes from [Free Code Camp's 2019 Web Developer Roadmap](ttps://www.freecodecamp.org/news/2019-web-developer-roadmap/),
+which is just [Kamran Ahmed's Developer Roadmaps](https://roadmap.sh/) with some commentary.
 
-[Kamran Ahmed's Developer Roadmaps](https://roadmap.sh/) outline the skills you need for:
-- all web developers
-- front end web developers
-- back end web developers
-- devops (a.k.a. site reliability engineer or system administrator)
+Links added later.
+
+These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
+- any web developer
+- [a front end web developer](https://roadmap.sh/frontend)
+- [a back end web developer](https://roadmap.sh/backend)
+- [a devops person (a.k.a. site reliability engineer or system administrator)](https://roadmap.sh/devops)
 
 # Required for any path:
-- basic terminal usage (bash or zsh)
-- KISS, YAGNI, DRY, SOLID
-- data structures & algorithms
-- Git for version control
-- GitHub
-- Licenses (e.g. GPLv2, BSD/MIT/ISC, etc.)
-- semantic versioning
-- SSH
-- HTTP/S & APIs
-- Design Patterns
-- Character encodings (e.g. ASCII & Unicode)
+- [basic terminal usage (bash)](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle),
+  [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it),
+  [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
+  [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [data structures](https://en.wikipedia.org/wiki/Data_structure) & [algorithms](https://en.wikipedia.org/wiki/Algorithm)
+- [Git for version control](https://git-scm.com/book/)
+- [GitHub](https://github.com/)
+- [Software licenses (e.g. restrictive vs. permissive open source, proprietary, etc.)](https://en.wikipedia.org/wiki/Software_license)
+- [semantic versioning](https://semver.org/)
+- [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
+- [HTTP/S](https://en.wikipedia.org/wiki/HTTP) & [Web APIs](https://en.wikipedia.org/wiki/Web_API)
+- [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+- [Character encodings](https://en.wikipedia.org/wiki/Character_encoding) (e.g. [ASCII](https://en.wikipedia.org/wiki/ASCII) & [Unicode](https://en.wikipedia.org/wiki/Unicode)
 
 # Front End Web Development Roadmap
 
 ## HTML
-- learn the basics
-- semantic HTML
-- SEO
-- accessibility
+- [learn the basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
+- [accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
 
 ## CSS
-- learn the basics
-- layout
--- float
--- positioning
--- display
--- box model
--- CSS grid
--- Flex box
-- media queries
-- CSS 3
+- [learn the basics](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+-- [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+-- [positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+-- [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+-- [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+-- [CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 
 ## Javascript
-- syntax and basic constructs
-- DOM manipulation
-- fetch API/ AJAX (XHR)
-- ES6+ and modular JS
+- [syntax and basic constructs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [DOM manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)/[AJAX (XHR)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+- [ES6+](https://www.codingame.com/playgrounds/6439/modern-es6-javascript-pt--1) & [modular JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - Understand these concepts:
--- hoisting
--- event bubbling
--- scope prototype
--- shadow DOM
--- strict
--- how browsers work
--- DNS
--- HTTP
+-- [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+-- [event bubbling](https://developer.mozilla.org/en-US/docs/Web/API/Event/bubbles)
+-- [scope prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+-- [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+-- [strict](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+-- [how browsers work](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+-- [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
+-- [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
 ## Package managers
-- npm
-- yarn
+- [npm](https://en.wikipedia.org/wiki/Npm_(software))
+- [yarn](https://yarnpkg.com/lang/en/docs/)
 
 ## CSS Preprocessors
 - SASS
