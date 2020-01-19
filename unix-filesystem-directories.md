@@ -1,10 +1,10 @@
 # Unix Filesystem Directories
 
-Unix uses the separator "/", whereas Windows uses "\\".
+[Unix](https://en.wikipedia.org/wiki/Unix) uses the separator "/", whereas [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) uses "\\".
 
-Unix is case sensitive, Windows is not. Macs can be either.
+Unix is [case sensitive](https://en.wikipedia.org/wiki/Case_sensitivity), Windows is not. Macs can be either.
 
-Single user mode allows a system administrator to perform maintenance on the system.
+[Single user mode](https://en.wikipedia.org/wiki/Single_user_mode) allows a system administrator to perform maintenance on the system.
 
 Several top level directories have been unified under /usr, including:
 - /bin
