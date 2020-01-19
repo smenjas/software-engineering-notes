@@ -62,7 +62,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 -- [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
 ## Package managers
-- [npm](https://en.wikipedia.org/wiki/Npm_(software))
+- [npm](https://en.wikipedia.org/wiki/Npm_%28software%29)
 - [yarn](https://yarnpkg.com/lang/en/docs/)
 
 ## CSS Preprocessors
@@ -242,137 +242,138 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 # DevOps Roadmap
 
 ## Learn a programming language
-- Python
-- Javascript & Node.js
-- Swift
-- Go
-- Rust
-- C
-- C++
+- [Python](https://www.python.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node.js](https://nodejs.org/en/about/)
+- [Swift](https://docs.swift.org/swift-book/)
+- [Go](https://golang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ## Understand OS concepts
-- process management
-- threads & concurrency
-- sockets
-- I/O management
-- virtualization
-- memory & storage
-- file systems
+- [process management](https://en.wikipedia.org/wiki/Process_management_%28computing%29)
+- [threads](https://en.wikipedia.org/wiki/Thread_%28computing%29) & [concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
+- [sockets](https://en.wikipedia.org/wiki/Network_socket)
+- [I/O management](https://en.wikipedia.org/wiki/Input/output)
+- [virtualization](https://en.wikipedia.org/wiki/Virtualization)
+- [memory](https://en.wikipedia.org/wiki/Computer_memory) & [storage](https://en.wikipedia.org/wiki/Computer_data_storage)
+- [file systems](https://en.wikipedia.org/wiki/File_system)
 
 ## Learn about managing servers
-- operating systems
--- Linux
--- Unix
--- Windows
-- Learn to live in the terminal
--- bash scripting
--- vim/nano/PowerShell/Emacs
--- compilation (gcc, make, etc.)
-- system performance
--- nmon
--- iostat
--- sar
--- vmstat
-- text manipulation tools
--- awk
--- sed
--- grep
--- sort
--- uniq
--- cat
--- cut
--- echo
--- fmt
--- tr
--- nl
--- egrep
--- wc
-- process monitoring
--- ps
--- top
--- htop
--- atop
--- lsof
-- network
--- nmap
--- tcpdump
--- ping
--- mtr
--- tracert
--- airmon
--- airodump
--- dig
--- iptables
+- [operating systems](https://en.wikipedia.org/wiki/Operating_system)
+-- [Linux](https://en.wikipedia.org/wiki/Linux)
+-- [Unix](https://en.wikipedia.org/wiki/Unix)
+-- [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+- [Learn to live in the terminal](https://www.linuxjournal.com/content/without-gui-how-live-entirely-terminal)
+-- [bash scripting](http://tldp.org/LDP/abs/html/)
+-- [vim](https://www.vim.org/)/[nano](https://en.wikipedia.org/wiki/GNU_nano)/[PowerShell](https://en.wikipedia.org/wiki/PowerShell)/[Emacs](https://www.gnu.org/software/emacs/tour/)
+-- [compilation](https://en.wikipedia.org/wiki/Compilation) ([gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection), [make](https://en.wikipedia.org/wiki/Make_%28software%29), etc.)
+- [system performance](https://en.wikipedia.org/wiki/Computer_performance)
+-- [nmon](https://en.wikipedia.org/wiki/Nmon)
+-- [iostat](https://en.wikipedia.org/wiki/Iostat)
+-- [sar](https://en.wikipedia.org/wiki/Sar_%28Unix%29)
+-- [vmstat](https://en.wikipedia.org/wiki/Vmstat)
+- [text manipulation tools](https://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/text-manipulation-tools.html)
+-- [awk](https://en.wikipedia.org/wiki/AWK)
+-- [sed](https://en.wikipedia.org/wiki/Sed)
+-- [grep](https://en.wikipedia.org/wiki/Grep)
+-- [sort](https://en.wikipedia.org/wiki/Sort_%28Unix%29)
+-- [uniq](https://en.wikipedia.org/wiki/Uniq)
+-- [cat](https://en.wikipedia.org/wiki/Cat_%28Unix%29)
+-- [cut](https://en.wikipedia.org/wiki/Cut_%28Unix%29)
+-- [echo](https://en.wikipedia.org/wiki/Echo_%28command%29)
+-- [fmt](https://en.wikipedia.org/wiki/Fmt_%28Unix%29)
+-- [tr](https://en.wikipedia.org/wiki/Tr_%28Unix%29)
+-- [nl](https://en.wikipedia.org/wiki/Nl_%28Unix%29)
+-- [egrep](https://en.wikipedia.org/wiki/Regular_expression#POSIX_basic_and_extended)
+-- [wc](https://en.wikipedia.org/wiki/Wc_%28Unix%29)
+- [process monitoring](https://en.wikipedia.org/wiki/Program_process_monitoring)
+-- [ps](https://en.wikipedia.org/wiki/Ps_%28Unix%29)
+-- [top](https://en.wikipedia.org/wiki/Top_%28software%29)
+-- [htop](https://en.wikipedia.org/wiki/Htop)
+-- [atop](https://www.atoptool.nl/)
+-- [lsof](https://en.wikipedia.org/wiki/Lsof)
+- [network](https://en.wikipedia.org/wiki/Telecommunications_network)
+-- [nmap](https://en.wikipedia.org/wiki/Nmap)
+-- [tcpdump](https://en.wikipedia.org/wiki/Tcpdump)
+-- [ping](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)
+-- [mtr](https://en.wikipedia.org/wiki/MTR_%28software%29)
+-- [tracert](https://en.wikipedia.org/wiki/Traceroute)
+-- [airmon](https://www.aircrack-ng.org/doku.php?id=airmon-ng)
+-- [airodump](https://www.aircrack-ng.org/doku.php?id=airodump-ng)
+-- [dig](https://en.wikipedia.org/wiki/Dig_%28command%29)
+-- [iptables](https://en.wikipedia.org/wiki/Iptables)
+-- [nftables](https://en.wikipedia.org/wiki/Nftables)
 - others
--- strace
--- dtrace
--- systemtap
--- uname
--- df
--- history
+-- [strace](https://en.wikipedia.org/wiki/Strace)
+-- [dtrace](https://en.wikipedia.org/wiki/Dtrace)
+-- [systemtap](https://en.wikipedia.org/wiki/SystemTap)
+-- [uname](https://en.wikipedia.org/wiki/Uname)
+-- [df](https://en.wikipedia.org/wiki/Df_%28Unix%29)
+-- [history](https://en.wikipedia.org/wiki/History_%28Unix%29)
 
 ## Networking & Security
-- DNS
-- OSI model
-- HTTP/S
-- FTP/S
-- SSL/TLS
+- [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
+- [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+- [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)/[S](https://en.wikipedia.org/wiki/HTTPS)
+- [FTP/S](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 ## What is and how to set up a _____
-- reverse proxy
-- forward proxy
-- caching server (e.g. Varnish)
-- load balancer
-- firewall
-- web server
--- Apache HTTPD
--- Nginx
+- [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
+- [forward proxy](https://en.wikipedia.org/wiki/Proxy_server)
+- [caching server](https://en.wikipedia.org/wiki/Web_cache) (e.g. [Varnish](https://en.wikipedia.org/wiki/Varnish_%28software%29%29)
+- [load balancer](https://en.wikipedia.org/wiki/Load_balancing_%28computing%29)
+- [firewall](https://en.wikipedia.org/wiki/Firewall_%28computing%29)
+- [web server](https://en.wikipedia.org/wiki/Firewall_%28computing%29)
+-- [Apache HTTPD](http://httpd.apache.org/)
+-- [Nginx](https://www.nginx.com/)
 
 ## Infrastructure as code
-- containers
--- Docker
--- rkt
--- LXC
-- configuration management
--- Ansible
--- Chef
--- Salt
--- Puppet
-- container orchestration
--- Kubernetes
--- Docker Swarm
--- Mesos
--- Nomad
-- infrastructure provisioning
--- Terraform
--- Cloud Formation
-- continuous integration/delivery (CI/CD)
--- Jenkins
--- Travis CI
--- TeamCity
--- Drone
--- Circle CI
--- GitHub Actions
+- [containers](https://en.wikipedia.org/wiki/OS-level_virtualization)
+-- [Docker](https://en.wikipedia.org/wiki/Docker_%28software%29)
+-- [rkt](https://coreos.com/rkt/)
+-- [LXC](https://en.wikipedia.org/wiki/LXC)
+- [configuration management](https://en.wikipedia.org/wiki/Configuration_management)
+-- [Ansible](https://en.wikipedia.org/wiki/Ansible_%28software%29)
+-- [Chef](https://www.chef.io/)
+-- [Salt](https://docs.saltstack.com/en/latest/)
+-- [Puppet](https://en.wikipedia.org/wiki/Puppet_%28company%29)
+- [container orchestration](https://blog.newrelic.com/engineering/container-orchestration-explained/)
+-- [Kubernetes](https://kubernetes.io/)
+-- [Docker Swarm](https://docs.docker.com/engine/swarm/)
+-- [Mesos](http://mesos.apache.org/)
+-- [Nomad](https://www.nomadproject.io/)
+- [infrastructure provisioning](https://www.future-processing.pl/blog/infrastructure-as-code-provisioning/)
+-- [Terraform](https://learn.hashicorp.com/terraform)
+-- [CloudFormation](https://aws.amazon.com/cloudformation/)
+- [continuous integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) & [continuous delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery)
+-- [Jenkins](https://jenkins.io/)
+-- [Travis CI](https://docs.travis-ci.com/user/tutorial/)
+-- [TeamCity](https://www.jetbrains.com/teamcity/)
+-- [Drone](https://drone.io/)
+-- [Circle CI](https://circleci.com/)
+-- [GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 
 ## Learn how to monitor software & infrastructure
 - infrastructure monitoring
--- Nagios
--- Icinga
--- Datadog
--- Zabbix
--- Monit
+-- [Nagios](https://www.nagios.org/)
+-- [Icinga](https://icinga.com/)
+-- [Datadog](https://www.datadoghq.com/)
+-- [Zabbix](https://www.zabbix.com/)
+-- [Monit](https://mmonit.com/)
 - application monitoring
--- AppDynamics
--- New Relic
-- log management
--- ELK stack
--- Graylog
--- Splunk
--- Papertrail
+-- [AppDynamics](https://www.appdynamics.com/)
+-- [New Relic](https://newrelic.com/)
+- [log management](https://en.wikipedia.org/wiki/Log_management)
+-- [ELK stack: Elasticsearch, Logstash, Kibana](https://www.elastic.co/what-is/elk-stack)
+-- [Graylog](https://en.wikipedia.org/wiki/Graylog)
+-- [Splunk](https://www.splunk.com/)
+-- [Papertrail](https://www.papertrail.com/)
 
 ## Cloud Providers
-- AWS
-- Google Cloud
-- Azure
-- Digital Ocean
-- Heroku
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Heroku](https://www.heroku.com/)
