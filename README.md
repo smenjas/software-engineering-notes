@@ -21,7 +21,7 @@
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Advent of Code](https://adventofcode.com/)
--- [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
+  - [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
 
 ## Fix open bugs on open source projects
 
