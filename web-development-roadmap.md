@@ -175,70 +175,69 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 # Back End Web Development Roadmap
 
 1. Learn a programming language.
-- Python 3 is an excellent choice.
+- [Python 3](https://www.python.org/) is an excellent choice.
 - JavaScript is an understandable choice.
-- Swift, Kotlin, C, and many others make sense in certain situations.
 
 2. Do a bunch of exercises.
-- Grokking Algorithms
-- Cracking the Coding Interview
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 
 3. Learn the package manager.
-- pip for Python
-- npm or yarn for JavaScript
+- [pip for Python](https://packaging.python.org/tutorials/installing-packages/)
+- [npm](https://docs.npmjs.com/about-npm/) or [yarn](https://yarnpkg.com/en/docs/getting-started) for JavaScript
 
 4. Learn standards and best practices.
-- Learn security best practices, e.g. OWASP.
+- Learn security best practices, e.g. [OWASP](https://owasp.org/www-project-top-ten/).
 
 5. Make and distribute a package/library/module.
 - Contribute to an open source project.
 
 6. Learn about testing.
-- pytest for Python
+- [pytest for Python](https://docs.pytest.org/)
 
 7. Write automated tests.
-- calculate test coverage
+- [calculate test coverage](https://en.wikipedia.org/wiki/Code_coverage)
 
 8. Learn relational databases.
-- PostgreSQL is good
+- [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) is good
 - add indexes
 - use proper storage engines
 - analyze queries
 
 9. Create a simple application.
-- registration
-- login
-- CRUD
+- [registration & login](https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67)
+- [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 - blog
 
 10. Learn a framework.
-- for Python, see Django or Flask
+- for Python, see [Django](https://www.djangoproject.com/) or [Flask](http://flask.palletsprojects.com/)
 
 11. Port the application from step 9 to a framework.
 
-12. Learn a NoSQL database.
+12. Learn a [NoSQL database](https://en.wikipedia.org/wiki/NoSQL).
+- [Mongo](https://en.wikipedia.org/wiki/MongoDB) for example
 
-13. Implement app level caching using Redis or Memecached.
+13. Implement app level caching using [Redis](https://redis.io/topics/introduction) or [Memcached](https://memcached.org/).
 
-14. Create RESTful APIs.
+14. Create [RESTful APIs](https://en.wikipedia.org/wiki/Representational_state_transfer).
 
-15. Learn authentication/authorization methodologies.
+15. Learn [authentication](https://en.wikipedia.org/wiki/Authentication)/[authorization](https://en.wikipedia.org/wiki/Authorization) methodologies.
 
-16. Learn message brokers, such as RabbitMQ & Kafka.
+16. Learn message brokers, such as [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) & [Kafka](https://kafka.apache.org/intro).
 
-17. Learn a search engine, like ElasticSearch, Solr, or Sphinx.
+17. Learn a search engine, like [ElasticSearch](https://en.wikipedia.org/wiki/Elasticsearch), [Solr](https://en.wikipedia.org/wiki/Apache_Solr), or [Sphinx](https://en.wikipedia.org/wiki/Sphinx_%28search_engine%29).
 
-18. Learn about containers, such as Docker & Kubernetes.
+18. Learn about [containers](https://en.wikipedia.org/wiki/OS-level_virtualization), such as [Docker](https://en.wikipedia.org/wiki/Docker_%28software$29) & [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes).
 
-19. Learn about web servers, such as Apache HTTPD & Nginx.
+19. Learn about web servers, such as [Apache HTTPD](http://httpd.apache.org/) & [Nginx](https://www.nginx.com/).
 
-20. Learn how to use WebSockets.
+20. Learn how to use [WebSockets](https://en.wikipedia.org/wiki/WebSocket).
 
-21. Learn GraphQL.
+21. Learn [GraphQL](https://en.wikipedia.org/wiki/GraphQL).
 
-22. Learn about graph databases.
+22. Learn about [graph databases](https://en.wikipedia.org/wiki/Graph_database).
 
-23. Keep exploring.  Learn profiling, static analysis, etc.
+23. Keep exploring. Learn [profiling](https://en.wikipedia.org/wiki/Profiling_%28computer_programming%29), [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), etc.
 
 # DevOps Roadmap
 
