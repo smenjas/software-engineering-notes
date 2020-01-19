@@ -1,6 +1,6 @@
 # Web Development Roadmap
 My notes from [Free Code Camp's 2019 Web Developer Roadmap](ttps://www.freecodecamp.org/news/2019-web-developer-roadmap/),
-which is just [Kamran Ahmed's Developer Roadmaps](https://roadmap.sh/) with some commentary.
+which is just 3 of [Kamran Ahmed's Web Developer Roadmaps](https://roadmap.sh/), plus some commentary.
 
 Links added later.
 
@@ -66,120 +66,126 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [yarn](https://yarnpkg.com/lang/en/docs/)
 
 ## CSS Preprocessors
-- SASS
-- Less
-- PostCSS
+- [SASS](https://sass-lang.com/guide)
+- [Less](http://lesscss.org/usage/)
+- [PostCSS](https://github.com/postcss/postcss#articles)
 
 ## CSS Frameworks
-- Bootstrap
-- Materialize CSS
-- Bulma
-- Semantic UI
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Materialize CSS](https://materializecss.com/getting-started.html)
+- [Bulma](https://bulma.io/documentation/overview/start/)
+- [Semantic UI](https://semantic-ui.com/introduction/getting-started.html)
 
 ## CSS Architecture
 - unnecessary unless you're designing CSS systems
-- BEM
-- OOCSS
-- SMACSS
+- [Block Element Modifier (BEM)](http://getbem.com/introduction/)
+- [Object Oriented CSS (OOCSS)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+- [Scalable & Modular CSS (SMACSS)](http://smacss.com/)
 
 ## Build Tools
-- task runners
--- npm scripts
--- gulp
-- module bundlers
--- Webpack
--- Parcel
--- Rollup
-- linters & formatters
--- Prettier
--- ESLint
--- JSHint
--- JSLint
--- JSCS
+- [task runners](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
+-- [npm scripts](https://docs.npmjs.com/misc/scripts)
+-- [gulp](https://gulpjs.com/docs/en/getting-started/quick-start)
+- [module bundlers](https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2)
+-- [Webpack](https://webpack.js.org/)
+-- [Parcel](https://parceljs.org/getting_started.html)
+-- [Rollup](https://rollupjs.org/guide/en/)
+- [linters & formatters](https://www.gistia.com/javascript-linters-formatter-prettier-eslint/)
+-- [Prettier](https://prettier.io/docs/en/comparison.html)
+-- [ESLint](https://eslint.org/docs/user-guide/getting-started)
+-- [JSHint](https://jshint.com/)
+-- [JSLint](https://jslint.com/)
+-- [JSCS, which has merged with ESLint](https://jscs-dev.github.io/)
 
 ## Pick a Javascript framework
-- know the pros & cons of single page applications
-- Express
-- React.js
-- Angular
--- RxJS
--- ngrx
-- Vue.js
--- Vuex
+- know the [pros & cons of single page applications](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
+- [Express](https://expressjs.com/en/starter/installing.html)
+- [React.js](https://reactjs.org/docs/getting-started.html)
+- [Angular](https://angular.io/start)
+-- [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
+-- [ngrx](https://ngrx.io/)
+- [Vue.js](https://vuejs.org/v2/guide/)
+-- [Vuex](https://vuex.vuejs.org/)
 
 ## CSS in JS
-- styled components
-- CSS modules
-- Emotion
-- Radium
-- Glamorous
+- [styled components](https://styled-components.com/)
+- [CSS modules](https://github.com/css-modules/css-modules)
+- [Emotion](https://emotion.sh/docs/introduction)
+- [Radium](https://formidable.com/open-source/radium/)
 
 ## Testing front end web apps
-- Jest, Enzyme, & Cypress can fulfill all your testing needs
-- Mocha
-- Chai
-- Ava
-- Karma
-- Jasmine
-- Protractor
+- [Jest](https://jestjs.io/docs/en/getting-started.html),
+  [Enzyme](https://airbnb.io/enzyme/), &
+  [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html) can fulfill all your testing needs
+- [Mocha](https://mochajs.org/#getting-started)
+- [Chai](https://www.chaijs.com/)
+- [Ava](https://www.npmjs.com/package/ava)
+- [Karma](https://www.npmjs.com/package/karma)
+- [Jasmine](https://www.npmjs.com/package/jasmine)
+- [Protractor](https://www.npmjs.com/package/protractor)
 
-## Progressive web apps
-- storage
-- Websockets
-- service workers
-- location
-- notifications
-- device orientation
-- payments
-- credentials
-- learn different web APIs used in PWAs
-- calculating, measuring, & improving performance
--- PRPL Pattern
--- RAIL Model
--- performance metrics
--- using Light House
--- using DevTools
+## [Progressive Web Apps (PWAs)](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [storage](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+- [Websockets](https://en.wikipedia.org/wiki/WebSocket)
+- [service workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [location](https://developers.google.com/web/fundamentals/native-hardware/user-location)
+- [notifications](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Re-engageable_Notifications_Push)
+- [device orientation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+- [payments](https://developers.google.com/web/ilt/pwa/introduction-to-the-payment-request-api-slides)
+- [credentials](https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API)
+- learn different [web APIs](https://en.wikipedia.org/wiki/Web_API) used in PWAs
+- [calculating, measuring, & improving performance](https://www.pwastats.com/)
+-- [PRPL Pattern](https://web.dev/apply-instant-loading-with-prpl/)
+-- [RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+-- [performance metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)
+-- [using Lighthouse](https://developers.google.com/web/tools/lighthouse)
+-- [using DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 ## Type Checkers
-- TypeScript (reduces bugs, very useful)
-- Flow
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) (reduces bugs, very useful)
+- [Flow](https://flow.org/)
 
 ## Server Side Rendering
-- React.js
--- Next.js
--- After.js
-- Angular
--- Univeral
-- Vue.js
--- Nuxt.js
+- [React.js](https://reactjs.org/docs/getting-started.html)
+-- [Next.js](https://nextjs.org/learn/basics/getting-started)
+-- [After.js](https://github.com/jaredpalmer/after.js/blob/master/README.md)
+- [Angular](https://angular.io/start)
+-- [Univeral](https://blog.angular-university.io/angular-universal/)
+- [Vue.js](https://vuejs.org/v2/guide/)
+-- [Nuxt.js](https://nuxtjs.org/guide/)
 
 ## Static Site Generators
-- GatsbyJS
+- [GatsbyJS](https://www.gatsbyjs.org/docs/)
 
 ## Desktop Applications
-- Electron
-- Proton Native
-- Carlo
+- [Electron](https://electronjs.org/)
+- [Proton Native](https://proton-native.js.org/)
+- [Carlo](https://github.com/GoogleChromeLabs/carlo)
 
 ## Mobile Applications
-- React Native
-- NativeScript
+- [React Native](https://facebook.github.io/react-native/)
+- [NativeScript](https://www.nativescript.org/)
 
-## WebAssembly
+## [WebAssembly](https://webassembly.org/)
 - up and coming
 - allows compiling any language (Python, Rust, Ruby, etc.) to bytecode
-- may eventually replave Javascript
+- may eventually replace Javascript
 - this will take a while, so prioritize Javascript over WebAssembly
 
 # Back End Web Development Roadmap
 
-1. Learn a programming language.  python3
+1. Learn a programming language.
+- Python 3 is an excellent choice.
+- JavaScript is an understandable choice.
+- Swift, Kotlin, C, and many others make sense in certain situations.
 
 2. Do a bunch of exercises.
 - Grokking Algorithms
 - Cracking the Coding Interview
 
-3. Learn the package manager.  pip
+3. Learn the package manager.
+- pip for Python
+- npm or yarn for JavaScript
 
 4. Learn standards and best practices.
 - Learn security best practices, e.g. OWASP.
@@ -187,7 +193,8 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 5. Make and distribute a package/library/module.
 - Contribute to an open source project.
 
-6. Learn about testing.  pytest
+6. Learn about testing.
+- pytest for Python
 
 7. Write automated tests.
 - calculate test coverage
@@ -204,7 +211,8 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - CRUD
 - blog
 
-10. Learn a framework.  Django
+10. Learn a framework.
+- for Python, see Django or Flask
 
 11. Port the application from step 9 to a framework.
 
