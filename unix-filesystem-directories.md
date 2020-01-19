@@ -1,6 +1,6 @@
 # Unix Filesystem Directories
 
-Unix uses the separator "/", whereas Windows uses "\".
+Unix uses the separator "/", whereas Windows uses "\\".
 
 Unix is case sensitive, Windows is not. Macs can be either.
 
