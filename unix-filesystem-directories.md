@@ -6,7 +6,7 @@ Unix is [case sensitive](https://en.wikipedia.org/wiki/Case_sensitivity), Window
 
 [Single user mode](https://en.wikipedia.org/wiki/Single_user_mode) allows a system administrator to perform maintenance on the system.
 
-Several top level directories have been unified under /usr, including:
+Several top level directories have been [unified under /usr](https://lwn.net/Articles/483921/), including:
 - /bin
 - /lib
 - /sbin
