@@ -3,7 +3,7 @@ A [data structure](https://en.wikipedia.org/wiki/Data_structure) is a concete re
 
 A [data type](https://en.wikipedia.org/wiki/Data_type) is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
 
-An [abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type) is a mathematical model for data types, where a data type is defined by its behavior ([semantics](https://en.wikipedia.org/wiki/Semantics_%28computer_science%29) from the point of view of a user of the data, specifically in terms of:
+An [abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type) is a mathematical model for data types, where a data type is defined by its behavior ([semantics](https://en.wikipedia.org/wiki/Semantics_%28computer_science%29)) from the point of view of a user of the data, specifically in terms of:
   - possible values
   - possible operations on data of this type
   - the behavior of these operations.
