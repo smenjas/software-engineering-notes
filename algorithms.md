@@ -20,3 +20,6 @@ Example: [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search)
 - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 - [General Problem Solver](https://en.wikipedia.org/wiki/General_Problem_Solver)
+
+## Graph Routing Algorithms
+- [Travelling salesman problem](https://en.wikipedia.org/wiki/Traveling_salesman_problem)
