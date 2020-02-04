@@ -42,10 +42,18 @@
 - [Interview Cake - The Intuitive Guide to Data Structures & Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
 - [Interview Cake](https://www.interviewcake.com/)
 
-## Join a MOOC (Massive Open Online Course)
+## Massive Open Online Courses (MOOCs)
 - [Coursera](https://www.coursera.org/)
 - [Udacity](https://www.udacity.com/)
 - [Educative](https://www.educative.io/)
+- [edX Computer Science](https://www.edx.org/course/subject/computer-science)
+
+### [MIT Open Learning](https://openlearning.mit.edu/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library)
+- [MIT OpenCourseWare - Computer Science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+- [MIT OpenCourseWare on YouTube](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+- [MIT Computer Science & Artificial Intelligence Lab (CSAIL) on YouTube](https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw)
 
 ## License
 
