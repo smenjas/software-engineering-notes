@@ -24,6 +24,10 @@
   - [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
 
 ## Fix open bugs on open source projects
+- [Django - Easy Pickings](https://code.djangoproject.com/query?status=!closed&easy=1)
+- [Bugcrowd - Public Bug Bounty List](https://www.bugcrowd.com/bug-bounty-list/)
+- [HackerOne - Bug Bounty Programs](https://hackerone.com/bug-bounty-programs)
+- [Google Security Reward Programs](https://www.google.com/about/appsecurity/programs-home/)
 
 ## Study relational databases
 - [Use the Index, Luke!](https://use-the-index-luke.com/sql/table-of-contents)
