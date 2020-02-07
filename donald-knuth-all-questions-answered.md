@@ -238,6 +238,8 @@ laughs]
 
 Okay, next question.
 
+---
+
 > Literate programming has never really taken off although some scripting
 > languages have improved [code
 > readability](https://en.wikipedia.org/wiki/Computer_programming#Readability_of_source_code)
