@@ -70,8 +70,8 @@ organ](https://www-cs-faculty.stanford.edu/~knuth/organ.html) located somewhere
 near where you live. Do you ever have anyone else, any other organist play that
 pipe organ, and what's your favorite song played on it?
 
-**DK:** If you look in ["Art of Computer
-Programming"](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) volume
+**DK:** If you look in [*Art of Computer
+Programming*](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) volume
 three, in the index under "royalties, use of" it'll take you to a page that
 shows a picture that looks like organ pipe. After we had sold a few copies of
 volumes one, two, and three, I was able to fulfill a dream and get a really nice
@@ -144,7 +144,7 @@ games](https://www-cs-faculty.stanford.edu/~knuth/fg.html). I saved that up for
 dessert. I knew that if I kept that for last, it would keep me going through
 all the other papers. So here I have this, finally, though I'm closing the door
 on papers I've been writing. From now on I don't write any more papers. I add
-to "Art of Computer Programming". There are 17 chapters in that book of papers
+to *Art of Computer Programming*. There are 17 chapters in that book of papers
 that were never before public. Two of those chapters I wrote last year on
 topics which you might say are low hanging fruit. In one case it was about
 [knight's tours](https://en.wikipedia.org/wiki/Knight%27s_tour). I call it long
@@ -170,7 +170,7 @@ consider each substring has a binary number. The sum of those binary numbers is
 a power of two. It's not easy but there it is, in a sense, low hanging fruit I
 would say. You know, try it out but don't start thinking about it just before
 trying to go to sleep because I was just reading the information -- what is it
-called? ["Learning in the Loo"](https://padlet.com/kerszi/LearningInTheLoo) or
+called? [*Learning in the Loo*](https://padlet.com/kerszi/LearningInTheLoo) or
 something like this? -- It tells you how to get a good night's sleep. So anyway,
 surprisingly, there's still a lot of low hanging fruit, and just keep asking
 questions. It's not really that likely that it's been totally explored yet.
@@ -333,8 +333,8 @@ name of it is and I want to go find out about it. Integer sequences is a good
 example of a search technique that allows me to go find...
 
 **DK:** Yeah, the Handbook of, the [Online Encyclopedia of Integer
-Sequences](https://oeis.org/), you can calculate your way int the literature if
-you can compute the first six terms of some sequence, you'll find if there's
+Sequences](https://oeis.org/), you can calculate your way into the literature
+if you can compute the first six terms of some sequence, you'll find if there's
 anybody else that's ever been interested in that.
 
 **Jeff:** Right. So that's a good solution, but that doesn't solve all
@@ -495,7 +495,7 @@ on it. I love the typography that I'm seeing. I think that people are starting
 to understand fonts. I guess one of the only predictions that I, I'm famously
 bad at predicting. In fact that's probably one of the, the fact that I can't
 predict how hard something is, is the only reason that I started working on
-typography in the first place. [crowd laughs] And "Art of Computer Programming"
+typography in the first place. [crowd laughs] And *Art of Computer Programming*
 and a bunch of other stuff. But I did predict that font designers would become
 heroes and that turned out to be fairly close to the mark.
 
@@ -508,8 +508,8 @@ really, really complicated. So what do you think will become the long term
 impact. Will we have more people actually understanding how it all works, or
 will we have magic, that only a few actually understand.
 
-**DK:** This is a paradox and I wish I knew. I just gave you a couple of, So I
-know that my grandkids are pretty fascinated by some applications that you
+**DK:** This is a paradox and I wish I knew. I just gave you a couple of... So
+I know that my grandkids are pretty fascinated by some applications that you
 might say are fairly like programming and they put together objects and the
 objects can move. I can't remember the names of the systems that they do. So
 they're doing more than just passively playing games, although games are... I
@@ -526,8 +526,8 @@ more... In the old days, people were learning
 Robot](https://en.wikipedia.org/wiki/Karel_%28programming_language%29) and
 stuff. Now there's many more systems like that which are quite fascinating.
 You probably know the one called [ChucK](http://chuck.stanford.edu/) from
-Stanford, and then [MIT has this one that was featured in the ACM last
-year](https://scratch.mit.edu/about), and there are more. I don't know if it'll
+Stanford, and then [MIT has this one](https://scratch.mit.edu/about) that was
+featured in the ACM last year , and there are more. I don't know if it'll
 change. Throughout my career, the number of people, of every hundred people,
 it's been pretty steady over my career that two out of every hundred seems to
 be born to be a computer scientist. They're geeks like me. We have a peculiar
@@ -562,8 +562,8 @@ write, you write the personal check that has numbers at the bottom, if a clerk
 knows those numbers, he can turn himself up an
 [ATM](https://en.wikipedia.org/wiki/Automated_teller_machine) card and withdraw
 money from your account. Anyway, I had to close three accounts because these
-numbers... I have examples where the check says Bank of America Atlanta,
-Georgia, and at the bottom, it has [routing
+numbers... I have examples where the check says "Bank of America Atlanta,
+Georgia", and at the bottom, it has [routing
 number](https://en.wikipedia.org/wiki/ABA_routing_transit_number) of my
 checking account in Palo Alto. It would look like a payroll check and so, four
 hundred bucks, cash it at the supermarket. But others were actually, as I said,
@@ -635,9 +635,9 @@ anything profound to say about it.
 
 **AM:** Thank you.
 
-**DK:** A friend of mine gave me a wonderful book. They started out with [Alice
+**DK:** A friend of mine gave me a wonderful book. They started out with [*Alice
 in
-Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland),
+Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland),
 and translated it by machine into French, and then translated that into English
 and back into French until they had a stable thing. [crowd laughs] After two
 cycles you get the same thing back again. Then they printed the whole thing
@@ -684,7 +684,7 @@ are... When we talk about the design of
 like that where you don't need so much to many theorems.
 
 **Presenter:** That's true. I've heard a few people say that reading your
-books, "The Art of Computer Programming" is challenging if you don't have the
+books, *The Art of Computer Programming* is challenging if you don't have the
 right mathematics background, which I think is true.
 
 **DK:** It's not easy to read my books, but it could be a lot harder. [crowd laughs]
