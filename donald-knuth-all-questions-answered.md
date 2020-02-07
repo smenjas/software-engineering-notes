@@ -7,19 +7,19 @@ Donald Knuth spoke on March 24th, 2011. The talk was posted on March 28th, 2011.
 ---
 
 **[Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/):** I'm not sure I
-can match [Lady Gaga](https://youtu.be/hNa_-1d_0tA). But anyway, when I was
-teaching at Stanford, our last day of class was reserved for all questions
-answered. I told everybody they could cut class if they wanted to but if they
-had something that they wanted to ask me (because they had paid their tuition
-and everything) that was the time to do it. They could ask questions on any
-subject whatsoever except religion, politics, or their final exam. Now, about 2
-years ago at Google I gave [a talk that had something to do with
-religion](https://youtu.be/JPpk-1btGZk). Politics is kind of depressing. If you
-want to ask questions about anything, you know I'll still give it my best shot
-but I can probably give better answers to things that I know something about. I
-understand that some people have been submitting questions and then they're
-going to choose the best ones to vote or anything. I'm hoping that the
-questions are not [frequently asked
+can match [Lady Gaga](https://youtu.be/hNa_-1d_0tA). [crowd laughs] But anyway,
+when I was teaching at Stanford, our last day of class was reserved for all
+questions answered. I told everybody they could cut class if they wanted to but
+if they had something that they wanted to ask me (because they had paid their
+tuition and everything) that was the time to do it. They could ask questions on
+any subject whatsoever except religion, politics, or their final exam. [crowd
+laughs] Now, about 2 years ago at Google I gave [a talk that had something to
+do with religion](https://youtu.be/JPpk-1btGZk). Politics is kind of
+depressing. If you want to ask questions about anything, you know I'll still
+give it my best shot but I can probably give better answers to things that I
+know something about. I understand that some people have been submitting
+questions and then they're going to choose the best ones to vote or anything.
+I'm hoping that the questions are not [frequently asked
 questions](https://www-cs-faculty.stanford.edu/~knuth/faq.html). Okay.
 Currently in the lead, okay, so, should I mention the guy who asked the
 question? Does this show up on your table? Whatever. Okay, so, let's go.
@@ -243,7 +243,7 @@ Okay, next question.
 > Literate programming has never really taken off although some scripting
 > languages have improved [code
 > readability](https://en.wikipedia.org/wiki/Computer_programming#Readability_of_source_code)
-> somewhat. What, if anything, do you think has hindered its adoption.?
+> somewhat. What, if anything, do you think has hindered its adoption?
 
 That's a question that of course, I can try to answer, but literate programming
 is so close to my heart that I'm totally biased about it, so you have to
@@ -669,7 +669,7 @@ dear."
 
 ---
 
-**Presenter:** Could I? I'm going to interject here. I'm going to take the
+**Bill Coughran:** Could I? I'm going to interject here. I'm going to take the
 liberty of asking the last question. So, you know, years and years ago when I
 was studying computer science, there was a lot more expectation for
 mathematical training, and I noticed over the ensuing 30 or 40 years that
@@ -708,7 +708,7 @@ are... When we talk about the design of
 [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) or something
 like that where you don't need so much to many theorems.
 
-**Presenter:** That's true. I've heard a few people say that reading your
+**BC:** That's true. I've heard a few people say that reading your
 books, *The Art of Computer Programming* is challenging if you don't have the
 right mathematics background, which I think is true.
 
