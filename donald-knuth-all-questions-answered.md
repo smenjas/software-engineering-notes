@@ -258,16 +258,16 @@ you want it to have, all kind of
 [caches](https://en.wikipedia.org/wiki/Cache_%28computing%29) you can control in
 [multiple issue of
 instructions](https://en.wikipedia.org/wiki/Instruction-level_parallelism) and
-did advanced prediction methods. You can imagine, you can simulate what it
-would be like if you had a processor with many more things than we know how to
-build at the moment. But anyway I wrote this simulator and it was the hardest
-challenge that I ever had as far as programming, I think. With literate
-programming, I was able to finish it in a year, but without literate programming
-I think I would've totally flopped. So for me, literate programming isn't only
-nice, it's sort of essential. It's also nice because I write average of maybe
-one program a day. Some of them are longer, some of them are pretty short. But
-with this literate programming method, it really works for me and makes me
-happy.
+did advanced [prediction](https://en.wikipedia.org/wiki/Branch_predictor)
+methods. You can imagine, you can simulate what it would be like if you had a
+processor with many more things than we know how to build at the moment. But
+anyway I wrote this simulator and it was the hardest challenge that I ever had
+as far as programming, I think. With literate programming, I was able to finish
+it in a year, but without literate programming I think I would've totally
+flopped. So for me, literate programming isn't only nice, it's sort of
+essential. It's also nice because I write average of maybe one program a day.
+Some of them are longer, some of them are pretty short. But with this literate
+programming method, it really works for me and makes me happy.
 
 Now, so on the other hand, you know, fewer than 100% of the world loves it. I
 read a lot of code and a lot of the best code that I see out there adheres to a
