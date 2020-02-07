@@ -125,7 +125,8 @@ It's true that a lot of things have been dissected in detail, but it all feels,
 including computer science, it seems that people are always going down the same
 roads. It's amazing to me the headway of how many times another low hanging
 fruit appears in my consciousness. Both in computer science and even in
-mathemtatics which have been around for, you know, hundreds of more years.
+mathematics which have been around for, you know, hundreds of more years.
+
 I was finishing the eighth volume of [my collected
 papers](https://www-cs-faculty.stanford.edu/~knuth/selected.html) out of eight,
 and I got to give a plug for this book because actually I have to admit that I
@@ -144,21 +145,23 @@ games](https://www-cs-faculty.stanford.edu/~knuth/fg.html). I saved that up for
 dessert. I knew that if I kept that for last, it would keep me going through
 all the other papers. So here I have this, finally, though I'm closing the door
 on papers I've been writing. From now on I don't write any more papers. I add
-to *Art of Computer Programming*. There are 17 chapters in that book of papers
-that were never before public. Two of those chapters I wrote last year on
-topics which you might say are low hanging fruit. In one case it was about
-[knight's tours](https://en.wikipedia.org/wiki/Knight%27s_tour). I call it long
-and skinny knight's tours. I studied the problem of how many ways are there to
-take a board that has three rows and n columns and find a nice tour on this
-board. It turned out that it was a really interesting problem, a really
-challenging problem. It taught me a lot of mathematics as I'm doing it. I can
-tell you the exact number for any n. I can tell you the asymptotic numbers and
-I can classify them into different ways that surprise me. It seemed like low
-hanging fruit because you don't need much, I mean, people have been thinking
-about knight's tours for 200 years. Still, there was another open problem on
-knight's tours called Celtic knight's tours which are knight's tours that are
-especially beautiful because they don't have three lines that come almost
-touching each other and so you can make beautiful [Celtic
+to *Art of Computer Programming*.
+
+There are 17 chapters in that book of papers that were never before public. Two
+of those chapters I wrote last year on topics which you might say are low
+hanging fruit. In one case it was about [knight's
+tours](https://en.wikipedia.org/wiki/Knight%27s_tour). I call it long and
+skinny knight's tours. I studied the problem of how many ways are there to take
+a board that has three rows and n columns and find a nice tour on this board.
+It turned out that it was a really interesting problem, a really challenging
+problem. It taught me a lot of mathematics as I'm doing it. I can tell you the
+exact number for any n. I can tell you the asymptotic numbers and I can
+classify them into different ways that surprise me. It seemed like low hanging
+fruit because you don't need much, I mean, people have been thinking about
+knight's tours for 200 years. Still, there was another open problem on knight's
+tours called Celtic knight's tours which are knight's tours that are especially
+beautiful because they don't have three lines that come almost touching each
+other and so you can make beautiful [Celtic
 knots](https://en.wikipedia.org/wiki/Celtic_knot) from the patterns anyway.
 
 Another example of something that was out there that hadn't been asked. Two
@@ -333,8 +336,8 @@ name of it is and I want to go find out about it. Integer sequences is a good
 example of a search technique that allows me to go find...
 
 **DK:** Yeah, the Handbook of, the [Online Encyclopedia of Integer
-Sequences](https://oeis.org/), you can calculate your way into the literature
-if you can compute the first six terms of some sequence, you'll find if there's
+Sequences](https://oeis.org/), you can calculate your way into the literature.
+If you can compute the first six terms of some sequence, you'll find if there's
 anybody else that's ever been interested in that.
 
 **Jeff:** Right. So that's a good solution, but that doesn't solve all
@@ -378,25 +381,29 @@ to solve all problems in a maximum polynomial number of steps in order to have
 P=NP. Still, his algorithm might be really interesting on practical problems,
 and so I've filed it away to read the code when I get to the point when, maybe a
 year from now when I'm going to be writing up techniques for maximum cliques.
+
 I've done my lifetime share of checking proofs that P=NP and P!=NP and some
 years ago, I passed that threshold. So I'll never do it again. Still, there's a
 pretty serious thing that a lot of people looked at about six months ago, wasn't
-it? It turned out that it didn't pan out, but still the ideas coudn't be
-dismissed our of hand. Now, I've also read proofs about [squaring the
-circle](https://en.wikipedia.org/wiki/Squaring_the_circle), too, in my youth. To
-my surprise I've found that I had already given this opinion 15 years ago, but
-I'm afraid what's going to happen in this question is that somebody maybe 50
-years from now is going to prove that P=NP, and the proof is going to be
+it? It turned out that it didn't pan out, but still the ideas couldn't be
+dismissed out of hand.
+
+Now, I've also read proofs about [squaring the
+circle](https://en.wikipedia.org/wiki/Squaring_the_circle), too, in my youth.
+
+To my surprise I've found that I had already given this opinion 15 years ago,
+but I'm afraid what's going to happen in this question is that somebody maybe
+50 years from now is going to prove that P=NP, and the proof is going to be
 something like this: that it equals NP because there are only finitely many
 reasons why it couldn't. [crowd laughs] In other words, a proof that could give
 us no algorithm, it just proves that there exists some exponent, but an
 algorithm that we'll never know is just out there. So then that was the wrong
 question to ask. Now, we already have some cases like this. There're some deep
 theorems in the [graph theory](https://en.wikipedia.org/wiki/Graph_theory) that
-say certain kinds of graphs, in order to test for these graphs, you can do it in
-polynomial time but nobody knows the algorithm. We just know that there's only a
-finite number of cases to try for but we don't know what those cases are. We
-just know that's not infinite. The paper by
+say certain kinds of graphs, in order to test for these graphs, you can do it
+in polynomial time but nobody knows the algorithm. We just know that there's
+only a finite number of cases to try for but we don't know what those cases
+are. We just know that's not infinite. The paper by
 [Lovas](http://www.cs.cmu.edu/~wlovas/) that describes some of the paradoxes
 coming out of it. It's looking to me more and more like it's going to be that
 the number of possible algorithms is huge huge, and to show that none of those
@@ -420,7 +427,9 @@ world. But are computer science and mathematics really two sides of the same
 coin, or are they somehow different coins? I feel strongly that they're
 different but I tried to convince [Bill
 Thurston](https://en.wikipedia.org/wiki/William_Thurston) and he disagreed with
-me. My opinion though is I can feel rather strongly when I'm wearing my
+me.
+
+My opinion though is I can feel rather strongly when I'm wearing my
 mathematician's cloak versus when I'm wearing my computer scientist's cap. I'm
 in one mode or the other, sometimes. To me, the biggest difference is
 mathematicians are mostly working on unified theories where you have one or two
@@ -430,14 +439,16 @@ two, case three, and we have different things that happen in different status.
 We have an assignment statement where we can just say X is placed by 2X. So all
 value X is gone. Mathematicians, that's a weird concept to mathematicians. So I
 think that these are different mentalities, different approaches where I can
-sometimes say, "Well as a computer scinetist, I got stuck here." Let me try to
+sometimes say, "Well as a computer scientist, I got stuck here." Let me try to
 translate into a mathematical one and then I think mathematically for a while
-and that moves me to another thing. Then mathematically I'm stuck, and then i
+and that moves me to another thing. Then mathematically I'm stuck, and then I
 go back and put on my programming hat again and try to do something
 constructive or figure out a data structure that helps me understand the
-mathematical of it. So, I think they're different but I can't convice Bill
-Thurston. The other thing that computer scientists... I can conclude this by
-saying we got our pluses and minuses. So there are problems in the world that
+mathematical of it. So, I think they're different but I can't convince Bill
+Thurston.
+
+The other thing that computer scientists... I can conclude this by saying we
+got our pluses and minuses. So there are problems in the world that
 mathematicians don't do very well at because they're sort of inherently
 heterogeneous. Nothing uniform is going to explain them all. So mathematicians
 aren't going to, couldn't be comfortable with that at all, and computer
@@ -514,26 +525,30 @@ might say are fairly like programming and they put together objects and the
 objects can move. I can't remember the names of the systems that they do. So
 they're doing more than just passively playing games, although games are... I
 must say I spent hundreds of hours rolling dice, and moving horses along a
-track when I was in high school. Now the equivalent is doing things on them. On
-the other hand, [Nick Trefethen](https://en.wikipedia.org/wiki/Nick_Trefethen)
-told me three years ago his son is going to the best high school in Oxford and
-Nick went there to talk to the kids in his son's school and he found that not a
-one of them had ever written a computer program or even thought about it. So,
-anyway it's a very strange situation that we're in. And you'd think that
-more... In the old days, people were learning
+track when I was in high school. Now the equivalent is doing things on them.
+
+On the other hand, [Nick
+Trefethen](https://en.wikipedia.org/wiki/Nick_Trefethen) told me three years
+ago his son is going to the best high school in Oxford and Nick went there to
+talk to the kids in his son's school and he found that not a one of them had
+ever written a computer program or even thought about it. So, anyway it's a
+very strange situation that we're in. And you'd think that more...
+
+In the old days, people were learning
 [Logo](https://en.wikipedia.org/wiki/Logo_%28programming_language%29) and
 [Karel the
 Robot](https://en.wikipedia.org/wiki/Karel_%28programming_language%29) and
 stuff. Now there's many more systems like that which are quite fascinating.
 You probably know the one called [ChucK](http://chuck.stanford.edu/) from
 Stanford, and then [MIT has this one](https://scratch.mit.edu/about) that was
-featured in the ACM last year , and there are more. I don't know if it'll
-change. Throughout my career, the number of people, of every hundred people,
-it's been pretty steady over my career that two out of every hundred seems to
-be born to be a computer scientist. They're geeks like me. We have a peculiar
-way of organizing stuff in our head and that happens when you're young at some
-point. I view computer science as something that I do because I just happen to
-be good at it, not because I had an urge to compute.
+featured in the ACM last year, and there are more.
+
+I don't know if it'll change. Throughout my career, the number of people, of
+every hundred people, it's been pretty steady over my career that two out of
+every hundred seems to be born to be a computer scientist. They're geeks like
+me. We have a peculiar way of organizing stuff in our head and that happens
+when you're young at some point. I view computer science as something that I do
+because I just happen to be good at it, not because I had an urge to compute.
 
 ---
 
@@ -554,33 +569,37 @@ started that, it used to be one dollar back in 1960s and then in the second
 edition it went up to two dollars. At some point it switched over to two dollar
 fifty-six cents which seemed a more appropriate number. People used to cash
 those checks a lot, and it fouled up our checking account. [crowd laughs] So I
-got my own account because others were not cashing. Well, now it turns out that
-the electronic funds transfer is incredibly insecure. Banks have almost no
-security. I mean, the banks believe any electronic message that they get. Crooks
-have learned how to do this, so that if somebody looks at a check that you
-write, you write the personal check that has numbers at the bottom, if a clerk
-knows those numbers, he can turn himself up an
-[ATM](https://en.wikipedia.org/wiki/Automated_teller_machine) card and withdraw
-money from your account. Anyway, I had to close three accounts because these
-numbers... I have examples where the check says "Bank of America Atlanta,
+got my own account because others were not cashing.
+
+Well, now it turns out that the electronic funds transfer is incredibly
+insecure. Banks have almost no security. I mean, the banks believe any
+electronic message that they get. Crooks have learned how to do this, so that
+if somebody looks at a check that you write, you write the personal check that
+has numbers at the bottom, if a clerk knows those numbers, he can turn himself
+up an [ATM](https://en.wikipedia.org/wiki/Automated_teller_machine) card and
+withdraw money from your account. Anyway, I had to close three accounts because
+these numbers... I have examples where the check says "Bank of America Atlanta,
 Georgia", and at the bottom, it has [routing
 number](https://en.wikipedia.org/wiki/ABA_routing_transit_number) of my
 checking account in Palo Alto. It would look like a payroll check and so, four
 hundred bucks, cash it at the supermarket. But others were actually, as I said,
 making ATM cards and doing withdrawals and ordering all kind of fancy computers
 and stuff, I think probably somewhere in Eastern Europe. This whole banking
-system is all screwed up. So about four years ago I started my own bank and you
-can find it on the web, it's called [The Bank of Sans
+system is all screwed up.
+
+So about four years ago I started my own bank and you can find it on the web,
+it's called [The Bank of Sans
 Seriffe](https://www-cs-faculty.stanford.edu/~knuth/boss.html) [crowd laughs]
 and I still write checks, but you don't cash them because it doesn't say "pay
 to the [...]", it says "Deposit to the account of [...]" and it's a virtual
 bank so you can look on there and you can find the names of everybody who's got
-an account at the Bank of Sans Seriffe and how much they've done. I wrote 21 of
-those checks last month and I'll write probably 10 this month so far from what
-I know, things that came in. Last week, I got a letter from China. A guy found
-an error in volume one from 1960, it hadn't been noticed since 1968. Finally
-somebody read that page carefully. It's true. So, it's very valuable to me, you
-know, trying to make these books more and more correct.
+an account at the Bank of Sans Seriffe and how much they've done.
+
+I wrote 21 of those checks last month and I'll write probably 10 this month so
+far from what I know, things that came in. Last week, I got a letter from
+China. A guy found an error in volume one from 1960, it hadn't been noticed
+since 1968. Finally somebody read that page carefully. It's true. So, it's very
+valuable to me, you know, trying to make these books more and more correct.
 
 ---
 
@@ -591,10 +610,12 @@ I guess we got good tools for them to play with, but I was best at understanding
 children when I had children who are that age. When my kids were in first grade
 I could design [curriculum](https://en.wikipedia.org/wiki/Curriculum) for first
 graders and then the next year I could design curriculum for second graders.
-Right now, that's wiped out of my head. I think part of it is they have to have
-a way to be creative and share their creations with their friends. So that's
-probably going to be the most effective way: have some kind of things where kids
-can make a construction that they're proud of.
+Right now, that's wiped out of my head.
+
+I think part of it is they have to have a way to be creative and share their
+creations with their friends. So that's probably going to be the most effective
+way: have some kind of things where kids can make a construction that they're
+proud of.
 
 ---
 
@@ -670,11 +691,13 @@ techniques](https://en.wikipedia.org/wiki/Computational_photography) are
 incredible. People are using high mathematics in artificial intelligence, all
 of the [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network), the
 calculations with [robotics](https://en.wikipedia.org/wiki/Robotics) are
-requiring great mathematics. I don't think however that I need a terrific
-amount of mathematics to come up with Facebook. Still I understand the way
-Facebook is able to do its magic is by actually putting everybody's Facebook
-page in one giant computer, a certain mathematic knowledge in order to
-understand caching and so, yeah, but not traditional mathematics. Mathematical
+requiring great mathematics.
+
+I don't think however that I need a terrific amount of mathematics to come up
+with Facebook. Still I understand the way Facebook is able to do its magic is
+by actually putting everybody's Facebook page in one giant computer, a certain
+mathematic knowledge in order to understand caching and so, yeah, but not
+traditional mathematics. Mathematical
 [paradigms](https://en.wikipedia.org/wiki/Paradigm) are still there. You have
 to know the concepts of [rigorous
 proof](https://en.wikipedia.org/wiki/Mathematical_proof) for at least half of
