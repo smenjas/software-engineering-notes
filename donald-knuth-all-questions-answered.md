@@ -699,9 +699,10 @@ I don't think however that I need a terrific amount of mathematics to come up
 with Facebook. Still I understand the way Facebook is able to do its magic is
 by actually putting everybody's Facebook page in one giant computer, a certain
 mathematic knowledge in order to understand caching and so, yeah, but not
-traditional mathematics. Mathematical
-[paradigms](https://en.wikipedia.org/wiki/Paradigm) are still there. You have
-to know the concepts of [rigorous
+traditional mathematics.
+
+Mathematical [paradigms](https://en.wikipedia.org/wiki/Paradigm) are still
+there. You have to know the concepts of [rigorous
 proof](https://en.wikipedia.org/wiki/Mathematical_proof) for at least half of
 computer science now, I would say. But there's also lots of other things that
 are... When we talk about the design of
