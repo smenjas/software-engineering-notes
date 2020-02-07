@@ -54,8 +54,8 @@ question? Does this show up on your table? Whatever. Okay, so, let's go.
 
 ## Mostest Theorems
 
-> What is the theorem or construction that in computer science that you feel is
-> most counterintuitive, and which one do you find most beautiful?
+> What is the theorem or construction in computer science that you feel is most
+> counterintuitive, and which one do you find most beautiful?
 
 Well, this kind of ranking of things in a [one
 dimensional](https://en.wikipedia.org/wiki/One-dimensional_space) criterion.
