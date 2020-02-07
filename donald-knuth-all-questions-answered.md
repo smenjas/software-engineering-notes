@@ -6,6 +6,32 @@ Donald Knuth spoke on March 24th, 2011. The talk was posted on March 28th, 2011.
 
 ---
 
+## Table of Contents
+- [Preamble](#preamble)
+- [Mostest Theorems](#mostest-theorems)
+- [Pipe Organ](#pipe-organ)
+- [Industry 1](#industry-1)
+- [Low Hanging Fruit](#low-hanging-fruit)
+- [Industry 2](#industry-2)
+- [Close to the Metal](#close-to-the-metal)
+- [Literate Programming Adoption](#literate-programming-adoption)
+- [Math Search](#math-search)
+- [P versus NP](#p-versus-np)
+- [Is computer science math?](#is-computer-science-math)
+- [Computer Science and Music](#computer-science-and-music)
+- [State of Typography](#state-of-typography)
+- [Teaching Children Computer Science 1](#teaching-children-computer-science-1)
+- [Industry 3](#industry-3)
+- [Knuth Reward Checks](#knuth-reward-checks)
+- [Teaching Children Computer Science 2](#teaching-children-computer-science-2)
+- [Meeting Steve Jobs](#meeting-steve-jobs)
+- [Natural Language Processing](#natural-language-processing)
+- [Is math necessary for computer scientists?](#is-math-necessary-for-computer-scientists)
+
+---
+
+## Preamble
+
 **[Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/):** I'm not sure I
 can match [Lady Gaga](https://youtu.be/hNa_-1d_0tA). [crowd laughs] But anyway,
 when I was teaching at Stanford, our last day of class was reserved for all
@@ -25,6 +51,8 @@ Currently in the lead, okay, so, should I mention the guy who asked the
 question? Does this show up on your table? Whatever. Okay, so, let's go.
 
 ---
+
+## Mostest Theorems
 
 > What is the theorem or construction that in computer science that you feel is
 > most counterintuitive, and which one do you find most beautiful?
@@ -65,6 +93,8 @@ Okay, so let's take something from the floor.
 
 ---
 
+## Pipe Organ
+
 **Audience member:** Rumor has it there's an amazing [pipe
 organ](https://www-cs-faculty.stanford.edu/~knuth/organ.html) located somewhere
 near where you live. Do you ever have anyone else, any other organist play that
@@ -100,6 +130,8 @@ used to be.
 
 ---
 
+## Industry 1
+
 **DK:** Now the next one here.
 
 > What kind of problems do you feel Google or the industry at large should be
@@ -116,6 +148,8 @@ find a lot of other irate users who miss this feature.
 I'll take another one off the screen.
 
 ---
+
+## Low Hanging Fruit
 
 > Most of the low hanging fruits in computer science have already been reaped
 > and dissected in detail. Do you still see any of them surprisingly no one is
@@ -182,6 +216,8 @@ Yeah?
 
 ---
 
+## Industry 2
+
 **Audience member:** Earlier, you were talking about GPS coordinates. There's a
 Labs feature where you can get that on your cursor now. You can turn on a Labs
 feature.
@@ -215,6 +251,8 @@ solution.
 
 ---
 
+## Close to the Metal
+
 > With the increasing processing power and adoption of machine independent high
 > level languages, it's a common perception that being [close to the
 > metal](https://en.wikipedia.org/wiki/Low-level_programming_language) doesn't
@@ -239,6 +277,8 @@ laughs]
 Okay, next question.
 
 ---
+
+## Literate Programming Adoption
 
 > Literate programming has never really taken off although some scripting
 > languages have improved [code
@@ -322,6 +362,8 @@ Jeff?
 
 ---
 
+## Math Search
+
 **Jeff:** So are you using
 [call/cc](https://en.wikipedia.org/wiki/Call-with-current-continuation) on that
 program?
@@ -368,6 +410,8 @@ people like me in the world, we wouldn't have time to read each other's books.
 
 ---
 
+## P versus NP
+
 > How many P!=NP proofs have you seen? What is your opinion on this, [P=NP or
 > P!=NP](https://en.wikipedia.org/wiki/P_versus_NP_problem)? When do you think
 > it is going to be settled?
@@ -412,6 +456,8 @@ the number of possible algorithms is huge huge, and to show that none of those
 is polynomial time might just be wrong.
 
 ---
+
+## Is computer science math?
 
 **Audience member:** Hi. I don't know if this touches more on philosophy, but
 do you believe that programming is more of an [emergent
@@ -464,6 +510,8 @@ the difference.
 
 ---
 
+## Computer Science and Music
+
 **DK:**
 > How has your involvement with music affected your computer science and vice
 > versa?
@@ -497,6 +545,8 @@ anything direct there.
 
 ---
 
+## State of Typography
+
 Next question here was:
 > You are famously known for your interest in (and contributions to) digital
 > typography. Over 30 years after release of
@@ -513,6 +563,8 @@ and a bunch of other stuff. But I did predict that font designers would become
 heroes and that turned out to be fairly close to the mark.
 
 ---
+
+## Teaching Children Computer Science 1
 
 **Audience member:** So I have a question very similar to, like, one of the
 previous questions. So, now kids are growing up with using computers like on the
@@ -554,6 +606,8 @@ because I just happen to be good at it, not because I had an urge to compute.
 
 ---
 
+## Industry 3
+
 > Programming today is not fundamentally changed from programming decades ago.
 > How has the industry failed in this regard and how could it change in the
 > future?
@@ -562,6 +616,8 @@ I wish I could answer about industry, but my own expertise is in writing books
 and I don't know.
 
 ---
+
+## Knuth Reward Checks
 
 > How many people have actually cashed the [$2.56
 > checks](https://en.wikipedia.org/wiki/Knuth_reward_check)?
@@ -605,6 +661,8 @@ valuable to me, you know, trying to make these books more and more correct.
 
 ---
 
+## Teaching Children Computer Science 2
+
 > What do I think is the most effective way to get children enthused about
 > computer science?
 
@@ -621,6 +679,8 @@ proud of.
 
 ---
 
+## Meeting Steve Jobs
+
 > Did Steve Jobs tell you he'd read all of your books and how did you respond?
 > Bye.
 
@@ -635,6 +695,8 @@ like, has read them all. Anyway, I defer the rest of the story.
 You got a question?
 
 ---
+
+## Natural Language Processing
 
 **Audience member:** So, are you familiar with the field of [natural language
 programming](https://en.wikipedia.org/wiki/Natural-language_programming), or,
@@ -668,6 +730,8 @@ into a stable form. The rabbit is saying, "Oh, precious," instead of, "Oh,
 dear."
 
 ---
+
+## Is math necessary for computer scientists?
 
 **Bill Coughran:** Could I? I'm going to interject here. I'm going to take the
 liberty of asking the last question. So, you know, years and years ago when I
