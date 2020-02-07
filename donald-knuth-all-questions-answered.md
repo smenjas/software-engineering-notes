@@ -333,8 +333,8 @@ programming the best are people who also seem to be people who also like to
 write. You know, bloggers and teachers. Because when you're writing literate
 programming, you're like in front of a class, you're writing for a human
 audience rather than for the computer to understand. You're trying to explain
-something to another programmer. There's a certain percentage of the world like
-to write and there's a certain percentage of the world that's good at
+something to another programmer. There's a certain percentage of the world
+likes to write and there's a certain percentage of the world that's good at
 programming, and you have to be in the intersection of those two in order to
 really love literate programming. So that might be why it hadn't taken off.
 
