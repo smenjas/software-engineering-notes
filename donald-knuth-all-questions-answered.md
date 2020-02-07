@@ -127,38 +127,39 @@ roads. It's amazing to me the headway of how many times another low hanging
 fruit appears in my consciousness. Both in computer science and even in
 mathemtatics which have been around for, you know, hundreds of more years.
 I was finishing the eighth volume of [my collected
-papers](https://www-cs-faculty.stanford.edu/~knuth/selected.html), and I got to
-give a plug for this book because actually I have to admit that I love it much
-more than I can explain. It was decided more than 20 years ago that the papers
-that have been written should be published in archival form with all the bugs
-removed and adding extra information about the developments since the papers
-were written and so on, and divided into eight topics. The first topic,
-[literate programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html) and
-the second topic was [computer science in general for
+papers](https://www-cs-faculty.stanford.edu/~knuth/selected.html) out of eight,
+and I got to give a plug for this book because actually I have to admit that I
+love it much more than I can explain. It was decided more than 20 years ago
+that the papers that have been written should be published in archival form
+with all the bugs removed and adding extra information about the developments
+since the papers were written and so on, and divided into eight topics. The
+first topic, [literate
+programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html) and the second
+topic was [computer science in general for
 non-specialists](https://www-cs-faculty.stanford.edu/~knuth/cs.html) and the
 third book was about
-[typography](https://www-cs-faculty.stanford.edu/~knuth/dt.html) and so on. Well
-the eighth of these eight was papers on [fun and
+[typography](https://www-cs-faculty.stanford.edu/~knuth/dt.html) and so on.
+Well the eighth of these eight was papers on [fun and
 games](https://www-cs-faculty.stanford.edu/~knuth/fg.html). I saved that up for
-dessert. I knew that if I kept that for last, it would keep me going through all
-the other papers. So here I have this, finally, though I'm closing the door on
-papers I've been writing. From now on I don't write any more papers. I add to
-"Art of Computer Programming". There are 17 chapters in that book of papers that
-were never before public. Two of those chapters I wrote last year on topics
-which you might say are low hanging fruit. In one case it was about [knight's
-tours](https://en.wikipedia.org/wiki/Knight%27s_tour). I call it long and skinny
-knight's tours. I studied the problem of how many ways are there to take a board
-that has three rows and n columns and find a nice tour on this board. It turned
-out that it was a really interesting problem, a really challenging problem. It
-taught me a lot of mathematics as I'm doing it. I can tell you the exact number
-for any n. I can tell you the asymptotic numbers and I classify them into
-different ways that surprise me. It seemed like low hanging fruit because you
-don't need much, I mean, people have been thinking about knight's tours for 200
-years. Still, there was another open problem on knight's tours called Celtic
-knight's tours which are knight's tours that are especially beautiful because
-they don't have three lines that come almost touching each other and so you can
-make beautiful [Celtic knots](https://en.wikipedia.org/wiki/Celtic_knot) from
-the patterns anyway.
+dessert. I knew that if I kept that for last, it would keep me going through
+all the other papers. So here I have this, finally, though I'm closing the door
+on papers I've been writing. From now on I don't write any more papers. I add
+to "Art of Computer Programming". There are 17 chapters in that book of papers
+that were never before public. Two of those chapters I wrote last year on
+topics which you might say are low hanging fruit. In one case it was about
+[knight's tours](https://en.wikipedia.org/wiki/Knight%27s_tour). I call it long
+and skinny knight's tours. I studied the problem of how many ways are there to
+take a board that has three rows and n columns and find a nice tour on this
+board. It turned out that it was a really interesting problem, a really
+challenging problem. It taught me a lot of mathematics as I'm doing it. I can
+tell you the exact number for any n. I can tell you the asymptotic numbers and
+I can classify them into different ways that surprise me. It seemed like low
+hanging fruit because you don't need much, I mean, people have been thinking
+about knight's tours for 200 years. Still, there was another open problem on
+knight's tours called Celtic knight's tours which are knight's tours that are
+especially beautiful because they don't have three lines that come almost
+touching each other and so you can make beautiful [Celtic
+knots](https://en.wikipedia.org/wiki/Celtic_knot) from the patterns anyway.
 
 Another example of something that was out there that hadn't been asked. Two
 weeks ago, [Ron Graham](https://en.wikipedia.org/wiki/Ronald_Graham) tells me
@@ -219,7 +220,7 @@ solution.
 
 I don't agree that it doesn't matter any more. It doesn't matter as much to as
 many people, but that's just relative. In absolute number it probably just
-matters. We can still use more power. We can still use it. There's all knids of
+matters. We can still use more power. We can still use it. There's all kinds of
 problems where you want to push the envelope and do better and so, if you just,
 lots of problems, there's no point in my spending much time on something if it's
 going to get the answer in a microsecond instead of ten seconds. So I write
@@ -243,7 +244,7 @@ That's a question that of course, I can try to answer, but literate programming
 is so close to my heart that I'm totally biased about it, so you have to
 discount what I say. Again, in absolute numbers we've got tens of thousands of
 people who use literate programming. But still, that's less than 1% probably.
-But I've got at least program that I wrote that was so complicated that I
+But I've got at least one program that I wrote that was so complicated that I
 totally believed that I would never ever have been able to get the program
 finished at all if I didn't have literate programming to organize my thoughts
 and make it done. This is the meta-simulator for my [MMIX
