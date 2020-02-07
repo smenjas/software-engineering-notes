@@ -324,22 +324,26 @@ franca. For me to say drop that and go to literate programming it's like saying,
 language that might be even better than Esperanto, you know, prove that it's a
 much more logical language. Yet English is good enough and I'm not going to
 change from English. Why should I tell somebody else to change the style of
-programming that they all can use and it's good enough? Jon Bentley might have
-hit the nail on the head because the people who like literate programming the
-best are people who also seem to be people who also like to write. You know,
-bloggers and teachers. Because when you're writing literate programming, you're
-like in front of a class, you're writing for a human audience rather than for
-the computer to understand. You're trying to explain something to another
-programmer. There's a certain percentage of the world like to write and there's
-a certain percentage of the world that's good at programming, and you have to be
-in the intersection of those two in order to really love literate programming.
-So that might be why it hadn't taken off. Still, I think that if Google
-managers would sort of, you know, say "Let's have a test here and we're going
-to do some system with literate programming," you find that it might in fact
-make Google even better than it is now. But anyway, I'm not going to change and
-I think a lot of people understand, I can point to some large programs that
-probably more people understand these difficult programs than any other
-programs on their side. So that's my take on that.
+programming that they all can use and it's good enough?
+
+[Jon
+Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_%28computer_scientist%29)
+might have hit the nail on the head because the people who like literate
+programming the best are people who also seem to be people who also like to
+write. You know, bloggers and teachers. Because when you're writing literate
+programming, you're like in front of a class, you're writing for a human
+audience rather than for the computer to understand. You're trying to explain
+something to another programmer. There's a certain percentage of the world like
+to write and there's a certain percentage of the world that's good at
+programming, and you have to be in the intersection of those two in order to
+really love literate programming. So that might be why it hadn't taken off.
+
+Still, I think that if Google managers would sort of, you know, say "Let's have
+a test here and we're going to do some system with literate programming," you
+find that it might in fact make Google even better than it is now. But anyway,
+I'm not going to change and I think a lot of people understand, I can point to
+some large programs that probably more people understand these difficult
+programs than any other programs on their side. So that's my take on that.
 
 One more thing though, my book on fun and games, the last chapter... Okay, I
 don't know how many people know this, but my first publication was in [Mad
