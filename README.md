@@ -59,6 +59,28 @@
 - [MIT OpenCourseWare on YouTube](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [MIT Computer Science & Artificial Intelligence Lab (CSAIL) on YouTube](https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw)
 
+## [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
+- [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
+  - [Structured systems analysis and design method](https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method)
+  - [V-Model](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)
+- [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+- [Offshore custom software development](https://en.wikipedia.org/wiki/Offshore_custom_software_development)
+- [Chaos model](https://en.wikipedia.org/wiki/Chaos_model)
+- [Incremental funding methodology](https://en.wikipedia.org/wiki/Incremental_funding_methodology)
+
+### [Lightweight methodology](https://en.wikipedia.org/wiki/Lightweight_methodology)
+- [ICONIX](https://en.wikipedia.org/wiki/ICONIX)
+- [Rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development)
+  - [Adaptive software development](https://en.wikipedia.org/wiki/Adaptive_software_development)
+  - [Feature-driven development](https://en.wikipedia.org/wiki/Feature-driven_development)
+    - [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+  - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
+    - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process)
+      - [Agile Unified Process](https://en.wikipedia.org/wiki/Agile_Unified_Process)
+      - [Open Unified Process](https://en.wikipedia.org/wiki/OpenUP)
+  - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
+    - [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+
 ## License
 
 Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
