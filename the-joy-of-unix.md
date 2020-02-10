@@ -10,11 +10,11 @@ by Eugene Eric Kim
 ---
 
 ## Contents
-- [Introduction](introduction)
-- [Licensing](licensing)
-- [Community](community)
-- [vi](vi)
-- [Desktop Unix](desktop-unix)
+- [Introduction](#introduction)
+- [Licensing](#licensing)
+- [Community](#community)
+- [vi](#vi)
+- [Desktop Unix](#desktop-unix)
 
 ---
 
