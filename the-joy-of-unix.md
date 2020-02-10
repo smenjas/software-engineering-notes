@@ -2,33 +2,51 @@
 
 Sun Microsystems co-founder Bill Joy charts where Linux and free software fit
 into his company's solar system.
+
 by Eugene Eric Kim
 
 [Linux Magazine, November 1999](https://web.archive.org/web/20050207084053/http://www.linux-mag.com/1999-11/joy_01.html)
 
+---
+
+## Contents
+- [Introduction](introduction)
+- [Licensing](licensing)
+- [Community](community)
+- [vi](vi)
+- [Desktop Unix](desktop-unix)
+
+---
+
+## Introduction
+
 As one of the creators of Berkeley Unix, Bill Joy knows a thing or two about
 developing and marketing a free operating system. Sun Microsystems' chief
 scientist has survived the Unix wars and has watched both his company and its
-chief competitor, Microsoft, grow from tiny start-ups to industry giants. Though
-he has had a major hand in the development of such important Unix technologies
-as NFS (Sun's Network File System), the Berkeley Unix TCP/IP stack, and the vi
-text editor, Joy's current obsession is trying to build a thriving development
-community around Sun's Jini distributed computing technology and its
-not-quite-Open Source software licensing model. Joy recently accepted Linux
-Magazine's invitation to dinner, where he gave Publisher Adam Goodman, Executive
-Editor Robert McMillan, and Associate Editor Eugene Kim the lowdown on what Sun
-thinks of Linux and Open Source.
+chief competitor, Microsoft, grow from tiny start-ups to industry giants.
+Though he has had a major hand in the development of such important Unix
+technologies as NFS (Sun's Network File System), the Berkeley Unix TCP/IP
+stack, and the vi text editor, Joy's current obsession is trying to build a
+thriving development community around Sun's Jini distributed computing
+technology and its not-quite-Open Source software licensing model. Joy recently
+accepted Linux Magazine's invitation to dinner, where he gave Publisher Adam
+Goodman, Executive Editor Robert McMillan, and Associate Editor Eugene Kim the
+lowdown on what Sun thinks of Linux and Open Source.
+
+---
+
+## Licensing
 
 **Linux Magazine:** One of the reasons we wanted to talk to you was that you
-have a long history with and a broad perspective on Unix and free software. What
-do you think of Linux? A lot of people talk about it as more than just an
+have a long history with and a broad perspective on Unix and free software.
+What do you think of Linux? A lot of people talk about it as more than just an
 operating system.
 
-**Bill Joy:** It's actually less. It's just a kernel if you want to be technical
-about it. It's politically incorrect to conflate Linux with the applications. At
-least one person will get upset. So to be quite precise, it's just the kernel of
-the OS. When we did Berkeley Unix, we were doing the operating system and all of
-the applications.
+**Bill Joy:** It's actually less. It's just a kernel if you want to be
+technical about it. It's politically incorrect to conflate Linux with the
+applications. At least one person will get upset. So to be quite precise, it's
+just the kernel of the OS. When we did Berkeley Unix, we were doing the
+operating system and all of the applications.
 
 In a lot of ways, the Berkeley Systems Distribution (BSD) was on the road to
 being free with source available and many of the things that Linux is. But it
@@ -43,22 +61,23 @@ which allows this healthy kind of invention and reinvention to occur.
 
 **LM:** So if it weren't for the lawyers, we'd be called FreeBSD Magazine?
 
-**BJ:** If BSD had been free, there would have been no reason to rewrite it. The
-new thing that happened with Linux was cultural. The Internet is now coupling
-people together in ways that probably couldn't have happened before. How else
-would the developers have found each other?
+**BJ:** If BSD had been free, there would have been no reason to rewrite it.
+The new thing that happened with Linux was cultural. The Internet is now
+coupling people together in ways that probably couldn't have happened before.
+How else would the developers have found each other?
 
 I did my work in the era of the magnetic tape. We sent Unix in source form to
 thousands of people; they sent us a few hundred dollars, because I had to pay
 for the postage and for the printing of the manuals, and that was our network.
 It was a postal-age speed thing. It was not very convenient.
 
-**LM:**Were licensing issues as important back then as they seem to be now?
+**LM:** Were licensing issues as important back then as they seem to be now?
 
-**BJ:** No. I knew I needed a license for BSD because at some point Berkeley was
-going to discover it. So I just took a license from the University of Toronto
-and modified it a little bit and started using that. I figured if I sent people
-a tape, and there was nothing for them to sign, they wouldn't take it seriously.
+**BJ:** No. I knew I needed a license for BSD because at some point Berkeley
+was going to discover it. So I just took a license from the University of
+Toronto and modified it a little bit and started using that. I figured if I
+sent people a tape, and there was nothing for them to sign, they wouldn't take
+it seriously.
 
 When you give things away for free, often people think that's what it's worth:
 Nothing. So charging them a small amount and giving them a license to sign
@@ -79,44 +98,45 @@ to seek denial." And we were operating with that philosophy.
 
 But there were huge amounts of money involved and we were becoming pretty
 visible. So eventually we decided to send AT&T; a letter asking them: "Is this
-okay what we're doing?" And 18 months later they sent a letter back: "We take no
-position." We won't answer your question. So that's what it was like to deal
+okay what we're doing?" And 18 months later they sent a letter back: "We take
+no position." We won't answer your question. So that's what it was like to deal
 with a regulated monopoly of lawyers. That same sort of legal structure is what
 caused [AT&T;] to license the transistor for nothing.
 
-So we couldn't actually get an answer from them and it was only years later that
-this whole fracas erupted around who owns the code. It turned out their code was
-as tainted with Berkeley stuff as ours was with theirs, so they eventually came
-to a truce. That's what I've heard second hand or just drinking wine with
-people. So there's a very tortured and funny history to all this code.
+So we couldn't actually get an answer from them and it was only years later
+that this whole fracas erupted around who owns the code. It turned out their
+code was as tainted with Berkeley stuff as ours was with theirs, so they
+eventually came to a truce. That's what I've heard second hand or just drinking
+wine with people. So there's a very tortured and funny history to all this
+code.
 
 **LM:** Have you ever contemplated what it would have been like if you'd
 released your code under the GNU Public License (GPL) or something similar?
 
 **BJ:** I don't see what the advantage to it is. The important thing is that
-people have the source code. I actually think it's fine that people can take BSD
-and make improvements to it and reap software profit.
+people have the source code. I actually think it's fine that people can take
+BSD and make improvements to it and reap software profit.
 
 I don't think, given where we were and what we were trying to do, that the
 license made that much of a difference. At Berkeley, we had the model that
 software is the result of your research. The university tradition is that when
 you do research, you publish. So not giving people the source code for software
-meant that you weren't publishing your research. A fundamental model of BSD was:
-Software is a result of our research. We'll publish it and other people will use
-it if they choose. If someone commercializes it, I don't particularly care,
-because if you publish research in a university, people can commercialize it.
-That's just the way it is.
+meant that you weren't publishing your research. A fundamental model of BSD
+was: Software is a result of our research. We'll publish it and other people
+will use it if they choose. If someone commercializes it, I don't particularly
+care, because if you publish research in a university, people can commercialize
+it. That's just the way it is.
 
 The important thing in my mind is that people share stuff. We've done something
 at Sun -- Community Source Licensing -- which is another spin on this. But the
 fundamental principle in my mind is that people get to see the results of other
-people's work in a way that they can stand on shoulders rather than on toes. The
-details can vary; there can be many approaches and they work in different
+people's work in a way that they can stand on shoulders rather than on toes.
+The details can vary; there can be many approaches and they work in different
 contexts.
 
 I think the GPL is fine. I just don't necessarily agree that it will achieve
-everything that Richard Stallman thinks it will. I'm not as religious about this
-as other people are.
+everything that Richard Stallman thinks it will. I'm not as religious about
+this as other people are.
 
 **LM:** Just what was your involvement with Sun's Community Source License?
 
@@ -126,35 +146,35 @@ as other people are.
 
 **BJ:** I can't license all of Sun's intellectual property under the GPL,
 because it just won't work. I don't see any reason why I should give somebody
-who's doing commercial reuse unfettered access to stuff that cost me millions of
-dollars to do. We're spending over a billion dollars a year in research. I can't
-just throw it all on the street. Not only because it's worth something, but
-because I'm not convinced people will respect its values -- the values I would
-want to see expressed in the way people used it.
+who's doing commercial reuse unfettered access to stuff that cost me millions
+of dollars to do. We're spending over a billion dollars a year in research. I
+can't just throw it all on the street. Not only because it's worth something,
+but because I'm not convinced people will respect its values -- the values I
+would want to see expressed in the way people used it.
 
 If I make code available under the GPL, I'll lose control of it. The Europeans
 have this notion of artistic rights, and it seems to me an artist -- the person
 who creates something -- has some right over the ultimate use of what they do.
-Artists' rights also allow an artist to get paid on resale of their stuff later.
-My view is that programmers are like artists. I think there's got to be some
-economic reward back to the people who do the creative work that turns out to
-matter.
+Artists' rights also allow an artist to get paid on resale of their stuff
+later. My view is that programmers are like artists. I think there's got to be
+some economic reward back to the people who do the creative work that turns out
+to matter.
 
 The GPL just doesn't solve my business problem at Sun. I would like all of our
 intellectual property to be available in source form, but I can't economically
 do that under the GPL.
 
 In the object-oriented world [of programming], binaries are almost as usable as
-source because they have clean interfaces and boundaries. This whole thing about
-open source makes much less sense once you start talking about [object-oriented
-programming languages like] Java, except to the extent that people don't get the
-boundaries right.
+source because they have clean interfaces and boundaries. This whole thing
+about open source makes much less sense once you start talking about
+[object-oriented programming languages like] Java, except to the extent that
+people don't get the boundaries right.
 
 **LM:** What about your original implementation of TCP/IP for BSD, which was
 freely available and which became the basis for a lot of the other
 implementations that are out there? It seems that from a compatibility
-standpoint, Java, for example, would have benefited from freely available source
-code in the same way TCP/IP did.
+standpoint, Java, for example, would have benefited from freely available
+source code in the same way TCP/IP did.
 
 **BJ:** The top predator now is Microsoft. We didn't have a top predator back
 when I did TCP/IP. When you have a person with unlimited funds who is clearly
@@ -180,8 +200,8 @@ fragmented, but the distributions have. People's systems aren't the same.
 people to make their source code freely available?
 
 **BJ:** I don't see that it really prevents incompatibility. The only thing I
-know that prevents incompatibility is requiring people to be compatible. The GPL
-permits compatibility. It does not encourage it.
+know that prevents incompatibility is requiring people to be compatible. The
+GPL permits compatibility. It does not encourage it.
 
 **LM:** Can you explain Sun's position toward Linux on Sparc? Sun seems to be
 supporting the development effort somewhat.
@@ -196,27 +216,28 @@ necessarily know what's going to be important in the long run. People have now
 figured out that companies that are a little more chaotic in this way actually
 are better adapters to environmental changes, and I think it's one of the
 reasons Sun has done so well. We don't try to get everybody signed up to one
-credo. We do not have one ironclad set of rules. We allow this kind of diversity
-internally.
+credo. We do not have one ironclad set of rules. We allow this kind of
+diversity internally.
 
-**LM:** Sun is providing machines for Linux developers. What else is it doing to
-support Linux?
+**LM:** Sun is providing machines for Linux developers. What else is it doing
+to support Linux?
 
-**BJ:** I don't actually know. I'm more involved in Java and Jini. The company's
-very large -- we have like 30,000 people -- and I probably get involved with
-about half of the R&D.; The Solaris stuff I have the least to do with.
+**BJ:** I don't actually know. I'm more involved in Java and Jini. The
+company's very large -- we have like 30,000 people -- and I probably get
+involved with about half of the R&D.; The Solaris stuff I have the least to do
+with.
 
 Sun wins if somebody has a Linux machine with Java because that improves the
 Java community. Sun wins if it's a Sparc. That's even better. To be honest, if
 it was Solaris, Sparc, and Java, that would be even better. But we're not
 infinitely greedy here.
 
-The old Macy's model was if they didn't have what you wanted, they'd send you to
-the store that did, even if it was a competitor. If you come to us, we don't
+The old Macy's model was if they didn't have what you wanted, they'd send you
+to the store that did, even if it was a competitor. If you come to us, we don't
 expect that we're going to solve all of your problems. You may want Apache on
-Linux on x86, and we'll do the best to operate in that environment because there
-may be some reason that's beyond our ability to affect that that's the right
-answer for you.
+Linux on x86, and we'll do the best to operate in that environment because
+there may be some reason that's beyond our ability to affect that that's the
+right answer for you.
 
 So to be customer-driven is to accept that and to contribute what you can. We
 just did this big deal with Apache to put more Java stuff in Apache. So we're
@@ -259,8 +280,8 @@ license, we basically had a clickable license to download all this stuff.
 
 Basically, we think that it's much better to work together than to not work
 together. That's not a very complicated value. Microsoft thinks: "anything you
-do, you compete with us." I think that if you don't necessarily like what we do,
-we'll find some other way to work together. There are not enough of us IT
+do, you compete with us." I think that if you don't necessarily like what we
+do, we'll find some other way to work together. There are not enough of us IT
 professionals anyway.
 
 **LM:** Speaking of Microsoft, have you ever meet Bill Gates?
@@ -279,8 +300,8 @@ five years ago.
 
 **LM:** Is Linux the major force pushing against Microsoft?
 
-**BJ:** I think Java is probably the major force pushing against Microsoft right
-now. I think Linux is a threat but Java's a bigger threat.
+**BJ:** I think Java is probably the major force pushing against Microsoft
+right now. I think Linux is a threat but Java's a bigger threat.
 
 **LM:** Do you see Linux as a threat to Sun at all?
 
@@ -302,15 +323,15 @@ Linux community, though.
 **LM:** What do you think about the business models being built around Linux?
 
 **BJ:** I understand that people think they're going to build a business on the
-service model, but the truth is customers don't want to pay for that, so I don't
-get it. I don't know how it's going to work. People don't like to pay for
+service model, but the truth is customers don't want to pay for that, so I
+don't get it. I don't know how it's going to work. People don't like to pay for
 service.
 
 The whole proposition with Linux is that nobody can control the operating
-system. Some invisible hand controls it; a community controls it. Any individual
-company can't affect where it goes. How is everybody going to use this in a
-sense? The Linux companies are hobbled by it because if you say they can add
-value, then I say it's going to fragment Linux.
+system. Some invisible hand controls it; a community controls it. Any
+individual company can't affect where it goes. How is everybody going to use
+this in a sense? The Linux companies are hobbled by it because if you say they
+can add value, then I say it's going to fragment Linux.
 
 If you accept the proposition that they can't fragment it, then you also are
 saying that they can't really differentiate themselves. Because other than
@@ -333,8 +354,8 @@ Solaris and Linux communities to work more closely together.
 **BJ:** It already is. We run a lot of Linux binaries, and we're trying to find
 ways to work together. Merging isn't a goal. I think Linux and Solaris have
 different goals. Linux is not worried about providing MVS class or VM370 or
-whatever IBM-class services for corporate data centers. That's not the center of
-the Linux community.
+whatever IBM-class services for corporate data centers. That's not the center
+of the Linux community.
 
 **LM:** But there are certainly areas of overlap.
 
@@ -343,8 +364,8 @@ right? I still prefer to win. I'm not saying we're not competitive, but I'd
 still rather have it be Linux than NT. If there's two Unix choices and one
 Microsoft, that improves our chances.
 
-**LM:** Do you think it's likely that parts of the Solaris operating system will
-be individually released as open source software?
+**LM:** Do you think it's likely that parts of the Solaris operating system
+will be individually released as open source software?
 
 **BJ:** I think that would be a good thing. There are logistic issues. You have
 to spend money to do that and it's hard work. In return, you get the value that
@@ -360,6 +381,8 @@ pluses and minuses. Personally I think it's a plus because I think a unified
 Unix community is better than one that's not, and I'm concerned about this. But
 I also think it would be okay if we decide to go our own way. It's your call.
 It's a CEO call.
+
+## Community
 
 **LM:** Do you see similarities between the development community and the
 cultural community that's surrounding Linux right now and the community that
@@ -379,21 +402,21 @@ was actually a small number of people.
 **LM:** In BSD or in Linux?
 
 **BJ:** Both cases. We have this myth that distributed development works, but
-it's a slight bit of a lie in that a small number of bright people can create an
-operating system. It does take a lot of people to write all of the device
+it's a slight bit of a lie in that a small number of bright people can create
+an operating system. It does take a lot of people to write all of the device
 drivers. That's true. But that doesn't necessarily mean we can coordinate the
-programming of hundreds of people writing C code. I don't know if that's true or
-not, and I personally don't think Linux proves it. I don't think Apache proves
-that. That's the myth that people have propagated. Maybe it's true, but if you
-called me as an expert witness, I would testify that it has not been true in my
-experience.
+programming of hundreds of people writing C code. I don't know if that's true
+or not, and I personally don't think Linux proves it. I don't think Apache
+proves that. That's the myth that people have propagated. Maybe it's true, but
+if you called me as an expert witness, I would testify that it has not been
+true in my experience.
 
-**LM:** Is there something to the notion that the people working on BSD are more
-exclusive than the Linux community?
+**LM:** Is there something to the notion that the people working on BSD are
+more exclusive than the Linux community?
 
-**BJ:** That's an us-versus-them thing.These things just get amplified. I don't
-think these people vary from each other by much. They just identify with some
-group, and that's a human-nature thing.
+**BJ:** That's an us-versus-them thing. These things just get amplified. I
+don't think these people vary from each other by much. They just identify with
+some group, and that's a human-nature thing.
 
 BSD is older. It doesn't need as much hacking. So if you're a new person
 learning how to hack, BSD was not as good a place to go. It didn't need as much
@@ -413,8 +436,8 @@ that needed to be done to it were hard enough that it made it difficult for any
 person to come and participate.
 
 So BSD wasn't as amenable to parallel innovation because the bar to
-participating was pretty high and the code base was too large. When I started on
-Unix, the source code could be listed in ten or twenty thousand lines as a
+participating was pretty high and the code base was too large. When I started
+on Unix, the source code could be listed in ten or twenty thousand lines as a
 50-page or 100-page book.
 
 If I came in today and wanted to do something with Solaris, I'd be overwhelmed.
@@ -422,12 +445,14 @@ I can't have the kind of impact I had on Unix with Solaris. The
 second-generation people coming into the Linux community are going to have the
 same problem.
 
+## vi
+
 **LM:**: What inspired you to write vi?
 
 **BJ:** What happened is that Ken Thompson came to Berkeley and brought this
-broken Pascal system, and we got this summer job to fix it. While we were fixing
-it, we got frustrated with the editor we were using which was named ed. ed is
-certainly frustrating.
+broken Pascal system, and we got this summer job to fix it. While we were
+fixing it, we got frustrated with the editor we were using which was named ed.
+ed is certainly frustrating.
 
 We got this code from a guy named George Coulouris at University College in
 London called em -- Editor for Mortals -- since only immortals could use ed to
@@ -440,8 +465,8 @@ finally use lowercase.
 **BJ:** '76 or '77. It was the summer Carter was president. So we modified em
 and created en. I don't know if there was an eo or an ep but finally there was
 ex. [laughter] I remember en but I don't know how it got to ex. So I had a
-terminal at home and a 300 baud modem so the cursor could move around and I just
-stayed up all night for a few months and wrote vi.
+terminal at home and a 300 baud modem so the cursor could move around and I
+just stayed up all night for a few months and wrote vi.
 
 **LM:** So you didn't really write vi in one weekend like everybody says?
 
@@ -462,14 +487,14 @@ PDP-10, which was a huge machine by comparison, with infinitely fast screens.
 
 So they could have funny commands with the screen shimmering and all that, and
 meanwhile, I'm sitting at home in sort of World War II surplus housing at
-Berkeley with a modem and a terminal that can just barely get the cursor off the
-bottom line.
+Berkeley with a modem and a terminal that can just barely get the cursor off
+the bottom line.
 
 It was a world that is now extinct. People don't know that vi was written for a
 world that doesn't exist anymore -- unless you decide to get a satellite phone
-and use it to connect to the Net at 2400 baud, in which case you'll realize that
-the Net is not usable at 2400 baud. It used to be perfectly usable at 1200 baud.
-But these days you can't use the Web at 2400 baud because the ads are 24
+and use it to connect to the Net at 2400 baud, in which case you'll realize
+that the Net is not usable at 2400 baud. It used to be perfectly usable at 1200
+baud. But these days you can't use the Web at 2400 baud because the ads are 24
 kilobytes.
 
 **LM:** Do you still use vi?
@@ -485,7 +510,7 @@ vi.
 of your mind -- that you were working on something that would eventually build
 an industry or change the world?
 
-**BJ:**No.
+**BJ:** No.
 
 **LM:** At what point did it occur to you? At what point did you look around and
 say: Whoa?
@@ -497,6 +522,8 @@ career.
 
 **BJ:** I think the Web was a "wow" for me because my dad was using it.
 [laughter]
+
+## Desktop Unix
 
 **LM:** You said earlier that Sun would like to work more with the Linux
 community. Do you have any thoughts on how something like that might happen?
@@ -513,8 +540,9 @@ was never really able to bring Unix to the desktop.
 
 **BJ:** That was our whole business for years.
 
-**LM:** Right, but Microsoft owns the desktop right now. It's not meant as a cut
-against Sun. It's just a fact that Unix is basically a server operating system.
+**LM:** Right, but Microsoft owns the desktop right now. It's not meant as a
+cut against Sun. It's just a fact that Unix is basically a server operating
+system.
 
 **BJ:** We haven't given up. We're doing Java clients now.
 
@@ -522,11 +550,11 @@ against Sun. It's just a fact that Unix is basically a server operating system.
 
 **BJ:** Because Microsoft had a person who was very greedy and who was very
 brutal in his business dealings and was handed a monopoly by IBM due to
-ineptness. They had several opportunities to rein this guy in and the management
-blew it. So the IBM monopoly got transferred basically due to blunders.
-Microsoft is a direct successor to the IBM mainframe monopoly. The corporate
-guys coalesced around the PC standard because it came from IBM. Not because it
-was any good.
+ineptness. They had several opportunities to rein this guy in and the
+management blew it. So the IBM monopoly got transferred basically due to
+blunders. Microsoft is a direct successor to the IBM mainframe monopoly. The
+corporate guys coalesced around the PC standard because it came from IBM. Not
+because it was any good.
 
 **LM:** But does something like Linux offer Sun an opportunity to rectify past
 mistakes? For example, there are windowing systems being developed for Linux
@@ -553,16 +581,16 @@ desktop.
 
 **BJ:** It's easier to talk about than to do. The Macintosh is easy to use, and
 it even has Office. What's the difference between Linux and a Macintosh? If
-Linux with future apps is going to be good enough, why aren't more people buying
-Macs?
+Linux with future apps is going to be good enough, why aren't more people
+buying Macs?
 
 **LM:** You think this is a fight that's already been fought, basically?
 
-**BJ:** No, I'm not saying you can't find a way to win. It's just that I haven't
-heard what it is. Given a sufficient number of people who care and an ability to
-be flexible about the way you achieve your objective, Linux might get there. You
-have to find a way around some of these things that are preventing people from
-switching.
+**BJ:** No, I'm not saying you can't find a way to win. It's just that I
+haven't heard what it is. Given a sufficient number of people who care and an
+ability to be flexible about the way you achieve your objective, Linux might
+get there. You have to find a way around some of these things that are
+preventing people from switching.
 
 These guys at Microsoft are very aggressive business people, and they have been
 very successful as aggressive business people. I don't think they've been very
@@ -576,11 +604,11 @@ What happens is monopolists don't tend to value product quality. Very high
 market share is what they value.
 
 As GM's market share was declining, it always talked about getting back market
-share. Why didn't they talk about making products that people wanted to buy that
-were high quality? That was the problem. I heard Steve Ballmer [President of
-Microsoft]say this in a speech: "Our number one goal is maximizing our market
-share." Excuse me. Market share should be a consequence of your goal. That can't
-be the goal.
+share. Why didn't they talk about making products that people wanted to buy
+that were high quality? That was the problem. I heard Steve Ballmer [President
+of Microsoft] say this in a speech: "Our number one goal is maximizing our
+market share." Excuse me. Market share should be a consequence of your goal.
+That can't be the goal.
 
 The goal is to build great products. I have an infinite respect for Steve Jobs
 because whatever else you say about him, his passion is to build a great
@@ -592,14 +620,14 @@ market-share goal. That's a very, very destructive, counterproductive goal.
 **LM:** Do you think there are any other goals the Linux community should
 pursue?
 
-**BJ:** Make it the best product it can be. Figure out who you want it to be for
-and build it to serve that community -- if it's for yourself, that's okay. Make
-it the best hobbyist -- in the best sense of the word -- operating system. Linux
-to me is like amateur radio was to radio. Amateur radio developed all the radio
-technology. Linux is developing some good technology, and these people are
-hobbyists. Probably some Latin root of the word "hobbyist" means people who love
-something and care about it. So it's a sense of love and caring for reasons that
-are noneconomic.
+**BJ:** Make it the best product it can be. Figure out who you want it to be
+for and build it to serve that community -- if it's for yourself, that's okay.
+Make it the best hobbyist -- in the best sense of the word -- operating system.
+Linux to me is like amateur radio was to radio. Amateur radio developed all the
+radio technology. Linux is developing some good technology, and these people
+are hobbyists. Probably some Latin root of the word "hobbyist" means people who
+love something and care about it. So it's a sense of love and caring for
+reasons that are noneconomic.
 
 It's like amateur astronomers. In essence, it's amateur in the highest sense of
 the word, having the highest affinity to caring that it's always the best. And
