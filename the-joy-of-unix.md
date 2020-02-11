@@ -101,9 +101,10 @@ money for a graduate student. Scott McNealy likes to say: "To ask permission is
 to seek denial." And we were operating with that philosophy.
 
 But there were huge amounts of money involved and we were becoming pretty
-visible. So eventually we decided to send AT&T; a letter asking them: "Is this
-okay what we're doing?" And 18 months later they sent a letter back: "We take
-no position." We won't answer your question. So that's what it was like to deal
+visible. So eventually we decided to send
+[AT&T](https://en.wikipedia.org/wiki/AT&T); a letter asking them: "Is this okay
+what we're doing?" And 18 months later they sent a letter back: "We take no
+position." We won't answer your question. So that's what it was like to deal
 with a regulated monopoly of lawyers. That same sort of legal structure is what
 caused [AT&T;] to license the transistor for nothing.
 
@@ -335,9 +336,10 @@ machine as their next machine or buying a Sparc machine running Linux or buying
 Java. The probabilities are greater for all those cases.
 
 If I look at the graph of what percentage of customer dollars I'm likely to get
-next, it's much higher if they start with Linux than if they start with Windows.
-So in all cases, I'd rather win and get Sparc/Solaris/Java as the solution. But
-Linux/Sparc/Java would be my second choice.
+next, it's much higher if they start with Linux than if they start with
+[Windows](https://en.wikipedia.org/wiki/Microsoft_Windows). So in all cases,
+I'd rather win and get Sparc/Solaris/Java as the solution. But Linux/Sparc/Java
+would be my second choice.
 
 **LM:** Do you know of a company named [VA Linux
 Systems](https://en.wikipedia.org/wiki/Geeknet)?
@@ -417,8 +419,9 @@ cultural community that's surrounding Linux right now and the community that
 surrounded BSD when you were developing it?
 
 **BJ:** No. Our community was so small. It was Robert Elz and the people at
-Berkeley and the people at Bell Labs. There was one guy in Austria and one in
-Australia. No one else contributed much of substance that I recall.
+Berkeley and the people at [Bell
+Labs](https://en.wikipedia.org/wiki/Bell_Labs). There was one guy in Austria
+and one in Australia. No one else contributed much of substance that I recall.
 
 **LM:** Do you believe that the BSD guys in general have a different philosophy
 toward software development then the Linux guys do?
@@ -433,11 +436,12 @@ was actually a small number of people.
 it's a slight bit of a lie in that a small number of bright people can create
 an operating system. It does take a lot of people to write all of the device
 drivers. That's true. But that doesn't necessarily mean we can coordinate the
-programming of hundreds of people writing C code. I don't know if that's true
-or not, and I personally don't think Linux proves it. I don't think Apache
-proves that. That's the myth that people have propagated. Maybe it's true, but
-if you called me as an expert witness, I would testify that it has not been
-true in my experience.
+programming of hundreds of people writing [C
+code](https://en.wikipedia.org/wiki/C_%28programming_language%29). I don't know
+if that's true or not, and I personally don't think Linux proves it. I don't
+think Apache proves that. That's the myth that people have propagated. Maybe
+it's true, but if you called me as an expert witness, I would testify that it
+has not been true in my experience.
 
 **LM:** Is there something to the notion that the people working on BSD are
 more exclusive than the Linux community?
@@ -494,12 +498,13 @@ was really exciting to finally use lowercase.
 
 **LM:** What year was that?
 
-**BJ:** '76 or '77. It was the summer Carter was president. So we modified em
-and created en. I don't know if there was an eo or an ep but finally there was
-ex. [laughter] I remember en but I don't know how it got to ex. So I had a
-terminal at home and a 300 [baud](https://en.wikipedia.org/wiki/Baud) modem so
-the cursor could move around and I just stayed up all night for a few months
-and wrote vi.
+**BJ:** '76 or '77. It was the summer
+[Carter](https://en.wikipedia.org/wiki/Jimmy_Carter) was president. So we
+modified em and created en. I don't know if there was an eo or an ep but
+finally there was ex. [laughter] I remember en but I don't know how it got to
+ex. So I had a terminal at home and a 300
+[baud](https://en.wikipedia.org/wiki/Baud) modem so the cursor could move
+around and I just stayed up all night for a few months and wrote vi.
 
 **LM:** So you didn't really write vi in one weekend like everybody says?
 
@@ -619,10 +624,11 @@ desktop.
 
 **LM:** There is a lot of talk about Linux possibly conquering the desktop.
 
-**BJ:** It's easier to talk about than to do. The Macintosh is easy to use, and
-it even has Office. What's the difference between Linux and a Macintosh? If
-Linux with future apps is going to be good enough, why aren't more people
-buying Macs?
+**BJ:** It's easier to talk about than to do. The
+[Macintosh](https://en.wikipedia.org/wiki/Macintosh) is easy to use, and it
+even has Office. What's the difference between Linux and a Macintosh? If Linux
+with future apps is going to be good enough, why aren't more people buying
+Macs?
 
 **LM:** You think this is a fight that's already been fought, basically?
 
@@ -665,12 +671,15 @@ pursue?
 **BJ:** Make it the best product it can be. Figure out who you want it to be
 for and build it to serve that community -- if it's for yourself, that's okay.
 Make it the best hobbyist -- in the best sense of the word -- operating system.
-Linux to me is like amateur radio was to radio. Amateur radio developed all the
-radio technology. Linux is developing some good technology, and these people
-are hobbyists. Probably some Latin root of the word "hobbyist" means people who
-love something and care about it. So it's a sense of love and caring for
-reasons that are noneconomic.
+Linux to me is like [amateur
+radio](https://en.wikipedia.org/wiki/Amateur_radio) was to radio. Amateur radio
+developed all the radio technology. Linux is developing some good technology,
+and these people are hobbyists. Probably some Latin root of the word "hobbyist"
+means people who love something and care about it. So it's a sense of love and
+caring for reasons that are noneconomic.
 
-It's like amateur astronomers. In essence, it's amateur in the highest sense of
-the word, having the highest affinity to caring that it's always the best. And
-tinkering and all this kind of stuff, that's a very positive value.
+It's like [amateur
+astronomers](https://en.wikipedia.org/wiki/Amateur_astronomy). In essence, it's
+amateur in the highest sense of the word, having the highest affinity to caring
+that it's always the best. And tinkering and all this kind of stuff, that's a
+very positive value.
