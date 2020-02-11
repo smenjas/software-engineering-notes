@@ -1,7 +1,8 @@
 # The Joy of Unix
 
-Sun Microsystems co-founder Bill Joy charts where Linux and free software fit
-into his company's solar system.
+[Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) co-founder
+[Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) charts where Linux and free
+software fit into his company's solar system.
 
 by Eugene Eric Kim
 
@@ -20,12 +21,13 @@ by Eugene Eric Kim
 
 ## Introduction
 
-As one of the creators of Berkeley Unix, Bill Joy knows a thing or two about
-developing and marketing a free operating system. Sun Microsystems' chief
-scientist has survived the Unix wars and has watched both his company and its
-chief competitor, Microsoft, grow from tiny start-ups to industry giants.
-Though he has had a major hand in the development of such important Unix
-technologies as NFS (Sun's Network File System), the Berkeley Unix TCP/IP
+As one of the creators of Berkeley [Unix](https://en.wikipedia.org/wiki/Unix),
+Bill Joy knows a thing or two about developing and marketing a free operating
+system. Sun Microsystems' chief scientist has survived the [Unix
+wars](https://en.wikipedia.org/wiki/Unix_wars) and has watched both his company
+and its chief competitor, Microsoft, grow from tiny start-ups to industry
+giants. Though he has had a major hand in the development of such important
+Unix technologies as NFS (Sun's Network File System), the Berkeley Unix TCP/IP
 stack, and the vi text editor, Joy's current obsession is trying to build a
 thriving development community around Sun's Jini distributed computing
 technology and its not-quite-Open Source software licensing model. Joy recently
@@ -39,8 +41,8 @@ lowdown on what Sun thinks of Linux and Open Source.
 
 **Linux Magazine:** One of the reasons we wanted to talk to you was that you
 have a long history with and a broad perspective on Unix and free software.
-What do you think of Linux? A lot of people talk about it as more than just an
-operating system.
+What do you think of [Linux](https://en.wikipedia.org/wiki/Linux)? A lot of
+people talk about it as more than just an operating system.
 
 **Bill Joy:** It's actually less. It's just a kernel if you want to be
 technical about it. It's politically incorrect to conflate Linux with the
@@ -48,10 +50,11 @@ applications. At least one person will get upset. So to be quite precise, it's
 just the kernel of the OS. When we did Berkeley Unix, we were doing the
 operating system and all of the applications.
 
-In a lot of ways, the Berkeley Systems Distribution (BSD) was on the road to
-being free with source available and many of the things that Linux is. But it
-got hung up in this legal fight between the University of California and Unix
-Systems Labs.
+In a lot of ways, the [Berkeley Systems Distribution
+(BSD)](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) was on the
+road to being free with source available and many of the things that Linux is.
+But it got hung up in this legal fight between the University of California and
+Unix Systems Labs.
 
 Those are the accidents of history. Now with Linux, we have this new version of
 Unix written with similar kinds of values that BSD had. One of the great
@@ -59,7 +62,8 @@ strengths of Unix is that it's been rewritten and reimplemented several times.
 Applications with similar names and similar functions are widely understood,
 which allows this healthy kind of invention and reinvention to occur.
 
-**LM:** So if it weren't for the lawyers, we'd be called FreeBSD Magazine?
+**LM:** So if it weren't for the lawyers, we'd be called
+[FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) Magazine?
 
 **BJ:** If BSD had been free, there would have been no reason to rewrite it.
 The new thing that happened with Linux was cultural. The Internet is now
@@ -111,7 +115,9 @@ wine with people. So there's a very tortured and funny history to all this
 code.
 
 **LM:** Have you ever contemplated what it would have been like if you'd
-released your code under the GNU Public License (GPL) or something similar?
+released your code under the [GNU Public License
+(GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License) or something
+similar?
 
 **BJ:** I don't see what the advantage to it is. The important thing is that
 people have the source code. I actually think it's fine that people can take
@@ -128,15 +134,17 @@ care, because if you publish research in a university, people can commercialize
 it. That's just the way it is.
 
 The important thing in my mind is that people share stuff. We've done something
-at Sun -- Community Source Licensing -- which is another spin on this. But the
-fundamental principle in my mind is that people get to see the results of other
-people's work in a way that they can stand on shoulders rather than on toes.
-The details can vary; there can be many approaches and they work in different
-contexts.
+at Sun -- [Community Source
+Licensing](https://en.wikipedia.org/wiki/Sun_Community_Source_License) -- which
+is another spin on this. But the fundamental principle in my mind is that
+people get to see the results of other people's work in a way that they can
+stand on shoulders rather than on toes. The details can vary; there can be many
+approaches and they work in different contexts.
 
 I think the GPL is fine. I just don't necessarily agree that it will achieve
-everything that Richard Stallman thinks it will. I'm not as religious about
-this as other people are.
+everything that [Richard
+Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) thinks it will. I'm
+not as religious about this as other people are.
 
 **LM:** Just what was your involvement with Sun's Community Source License?
 
@@ -164,22 +172,28 @@ The GPL just doesn't solve my business problem at Sun. I would like all of our
 intellectual property to be available in source form, but I can't economically
 do that under the GPL.
 
-In the object-oriented world [of programming], binaries are almost as usable as
-source because they have clean interfaces and boundaries. This whole thing
-about open source makes much less sense once you start talking about
-[object-oriented programming languages like] Java, except to the extent that
-people don't get the boundaries right.
+In the
+[object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)
+world [of programming], binaries are almost as usable as source because they
+have clean interfaces and boundaries. This whole thing about open source makes
+much less sense once you start talking about [object-oriented programming
+languages like]
+[Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29), except
+to the extent that people don't get the boundaries right.
 
-**LM:** What about your original implementation of TCP/IP for BSD, which was
-freely available and which became the basis for a lot of the other
+**LM:** What about your original implementation of
+[TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) for BSD, which
+was freely available and which became the basis for a lot of the other
 implementations that are out there? It seems that from a compatibility
 standpoint, Java, for example, would have benefited from freely available
 source code in the same way TCP/IP did.
 
-**BJ:** The top predator now is Microsoft. We didn't have a top predator back
-when I did TCP/IP. When you have a person with unlimited funds who is clearly
-focused on destroying the value proposition of what you're doing, you'd be a
-fool not to account for them in the strategy that you adopted.
+**BJ:** The top predator now is
+[Microsoft](https://en.wikipedia.org/wiki/Microsoft). We didn't have a top
+predator back when I did TCP/IP. When you have a person with unlimited funds
+who is clearly focused on destroying the value proposition of what you're
+doing, you'd be a fool not to account for them in the strategy that you
+adopted.
 
 **LM:** Do you feel that Microsoft might actually try to create Microsoft Linux
 in an attempt to fragment the Linux community?
@@ -203,8 +217,9 @@ people to make their source code freely available?
 know that prevents incompatibility is requiring people to be compatible. The
 GPL permits compatibility. It does not encourage it.
 
-**LM:** Can you explain Sun's position toward Linux on Sparc? Sun seems to be
-supporting the development effort somewhat.
+**LM:** Can you explain Sun's position toward Linux on
+[Sparc](https://en.wikipedia.org/wiki/SPARC)? Sun seems to be supporting the
+development effort somewhat.
 
 **BJ:** Right. Well, the customer's always right. If the customer wants Linux,
 that's great -- then we should give it to them. Sparc is the hardware that we
@@ -222,30 +237,38 @@ diversity internally.
 **LM:** Sun is providing machines for Linux developers. What else is it doing
 to support Linux?
 
-**BJ:** I don't actually know. I'm more involved in Java and Jini. The
-company's very large -- we have like 30,000 people -- and I probably get
-involved with about half of the R&D.; The Solaris stuff I have the least to do
-with.
+**BJ:** I don't actually know. I'm more involved in Java and
+[Jini](https://en.wikipedia.org/wiki/Jini). The company's very large -- we have
+like 30,000 people -- and I probably get involved with about half of the R&D.;
+The [Solaris](https://en.wikipedia.org/wiki/Solaris_%28operating_system%29)
+stuff I have the least to do with.
 
 Sun wins if somebody has a Linux machine with Java because that improves the
 Java community. Sun wins if it's a Sparc. That's even better. To be honest, if
 it was Solaris, Sparc, and Java, that would be even better. But we're not
 infinitely greedy here.
 
-The old Macy's model was if they didn't have what you wanted, they'd send you
-to the store that did, even if it was a competitor. If you come to us, we don't
-expect that we're going to solve all of your problems. You may want Apache on
-Linux on x86, and we'll do the best to operate in that environment because
-there may be some reason that's beyond our ability to affect that that's the
-right answer for you.
+The old [Macy's](https://en.wikipedia.org/wiki/Macy's) model was if they didn't
+have what you wanted, they'd send you to the store that did, even if it was a
+competitor. If you come to us, we don't expect that we're going to solve all of
+your problems. You may want
+[Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) on Linux on
+[x86](https://en.wikipedia.org/wiki/X86), and we'll do the best to operate in
+that environment because there may be some reason that's beyond our ability to
+affect that that's the right answer for you.
 
 So to be customer-driven is to accept that and to contribute what you can. We
 just did this big deal with Apache to put more Java stuff in Apache. So we're
 coming at it from all directions.
 
-**LM:** You're referring to the Jakarta project, where Sun agreed to donate its
-JavaServer Pages (JSP) and other Java Web server-related source code to the
-Apache project and have it released under the Apache license.
+**LM:** You're referring to the [Jakarta
+project](https://en.wikipedia.org/wiki/Jakarta_Project), where Sun agreed to
+donate its [JavaServer Pages
+(JSP)](https://en.wikipedia.org/wiki/JavaServer_Pages) and other Java Web
+server-related source code to the [Apache
+project](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) and have
+it released under the [Apache
+license](https://en.wikipedia.org/wiki/Apache_License).
 
 **BJ:** That was a local business decision; I'm glad that they did that.
 
@@ -284,7 +307,8 @@ do, you compete with us." I think that if you don't necessarily like what we
 do, we'll find some other way to work together. There are not enough of us IT
 professionals anyway.
 
-**LM:** Speaking of Microsoft, have you ever meet Bill Gates?
+**LM:** Speaking of Microsoft, have you ever meet [Bill
+Gates](https://en.wikipedia.org/wiki/Bill_Gates)?
 
 **BJ:** Oh yeah. Mostly in the eighties. I met him in the early 1980s.
 
@@ -315,7 +339,8 @@ next, it's much higher if they start with Linux than if they start with Windows.
 So in all cases, I'd rather win and get Sparc/Solaris/Java as the solution. But
 Linux/Sparc/Java would be my second choice.
 
-**LM:** Do you know of a company named VA Linux Systems?
+**LM:** Do you know of a company named [VA Linux
+Systems](https://en.wikipedia.org/wiki/Geeknet)?
 
 **BJ:** I met somebody who said they were working for them. I don't track the
 Linux community, though.
@@ -353,16 +378,19 @@ Solaris and Linux communities to work more closely together.
 
 **BJ:** It already is. We run a lot of Linux binaries, and we're trying to find
 ways to work together. Merging isn't a goal. I think Linux and Solaris have
-different goals. Linux is not worried about providing MVS class or VM370 or
-whatever IBM-class services for corporate data centers. That's not the center
-of the Linux community.
+different goals. Linux is not worried about providing
+[MVS](https://en.wikipedia.org/wiki/MVS) class or
+[VM370](https://en.wikipedia.org/wiki/VM_(operating_system)) or whatever
+[IBM](https://en.wikipedia.org/wiki/IBM)-class services for corporate data
+centers. That's not the center of the Linux community.
 
 **LM:** But there are certainly areas of overlap.
 
 **BJ:** That's okay. It gives people a choice, and that's not a bad thing,
 right? I still prefer to win. I'm not saying we're not competitive, but I'd
-still rather have it be Linux than NT. If there's two Unix choices and one
-Microsoft, that improves our chances.
+still rather have it be Linux than
+[NT](https://en.wikipedia.org/wiki/Windows_NT). If there's two Unix choices and
+one Microsoft, that improves our chances.
 
 **LM:** Do you think it's likely that parts of the Solaris operating system
 will be individually released as open source software?
@@ -447,18 +475,20 @@ same problem.
 
 ## vi
 
-**LM:**: What inspired you to write vi?
+**LM:**: What inspired you to write [vi](https://en.wikipedia.org/wiki/Vi)?
 
-**BJ:** What happened is that Ken Thompson came to Berkeley and brought this
-broken Pascal system, and we got this summer job to fix it. While we were
-fixing it, we got frustrated with the editor we were using which was named ed.
-ed is certainly frustrating.
+**BJ:** What happened is that [Ken
+Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) came to Berkeley and
+brought this broken Pascal system, and we got this summer job to fix it. While
+we were fixing it, we got frustrated with the editor we were using which was
+named ed. ed is certainly frustrating.
 
-We got this code from a guy named George Coulouris at University College in
-London called em -- Editor for Mortals -- since only immortals could use ed to
-do anything. By the way, before that summer, we could only type in uppercase.
-That summer we got lowercase ROMs for our terminals. It was really exciting to
-finally use lowercase.
+We got this code from a guy named [George
+Coulouris](https://en.wikipedia.org/wiki/George_Coulouris_%28computer_scientist%29)
+at University College in London called em -- Editor for Mortals -- since only
+immortals could use ed to do anything. By the way, before that summer, we could
+only type in uppercase. That summer we got lowercase ROMs for our terminals. It
+was really exciting to finally use lowercase.
 
 **LM:** What year was that?
 
