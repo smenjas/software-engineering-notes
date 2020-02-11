@@ -635,10 +635,11 @@ market share is what they value.
 
 As GM's market share was declining, it always talked about getting back market
 share. Why didn't they talk about making products that people wanted to buy
-that were high quality? That was the problem. I heard Steve Ballmer [President
-of Microsoft] say this in a speech: "Our number one goal is maximizing our
-market share." Excuse me. Market share should be a consequence of your goal.
-That can't be the goal.
+that were high quality? That was the problem. I heard [Steve
+Ballmer](https://en.wikipedia.org/wiki/Steve_Ballmer) [President of Microsoft]
+say this in a speech: "Our number one goal is maximizing our market share."
+Excuse me. Market share should be a consequence of your goal. That can't be the
+goal.
 
 The goal is to build great products. I have an infinite respect for Steve Jobs
 because whatever else you say about him, his passion is to build a great
