@@ -380,7 +380,7 @@ Solaris and Linux communities to work more closely together.
 ways to work together. Merging isn't a goal. I think Linux and Solaris have
 different goals. Linux is not worried about providing
 [MVS](https://en.wikipedia.org/wiki/MVS) class or
-[VM370](https://en.wikipedia.org/wiki/VM_(operating_system)) or whatever
+[VM370](https://en.wikipedia.org/wiki/VM_%28operating_system%29) or whatever
 [IBM](https://en.wikipedia.org/wiki/IBM)-class services for corporate data
 centers. That's not the center of the Linux community.
 
@@ -479,9 +479,11 @@ same problem.
 
 **BJ:** What happened is that [Ken
 Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) came to Berkeley and
-brought this broken Pascal system, and we got this summer job to fix it. While
-we were fixing it, we got frustrated with the editor we were using which was
-named ed. ed is certainly frustrating.
+brought this broken
+[Pascal](https://en.wikipedia.org/wiki/Pascal_%28programming_language%29)
+system, and we got this summer job to fix it. While we were fixing it, we got
+frustrated with the editor we were using which was named ed. ed is certainly
+frustrating.
 
 We got this code from a guy named [George
 Coulouris](https://en.wikipedia.org/wiki/George_Coulouris_%28computer_scientist%29)
@@ -495,8 +497,9 @@ was really exciting to finally use lowercase.
 **BJ:** '76 or '77. It was the summer Carter was president. So we modified em
 and created en. I don't know if there was an eo or an ep but finally there was
 ex. [laughter] I remember en but I don't know how it got to ex. So I had a
-terminal at home and a 300 baud modem so the cursor could move around and I
-just stayed up all night for a few months and wrote vi.
+terminal at home and a 300 [baud](https://en.wikipedia.org/wiki/Baud) modem so
+the cursor could move around and I just stayed up all night for a few months
+and wrote vi.
 
 **LM:** So you didn't really write vi in one weekend like everybody says?
 
@@ -511,9 +514,11 @@ was optimized so that you could edit and feel productive when it was painting
 slower than you could think. Now that computers are so much faster than you can
 think, nobody understands this anymore.
 
-The people doing Emacs were sitting in labs at MIT with what were essentially
-fibre-channel links to the host, in contemporary terms. They were working on a
-PDP-10, which was a huge machine by comparison, with infinitely fast screens.
+The people doing [Emacs](https://en.wikipedia.org/wiki/Emacs) were sitting in
+labs at MIT with what were essentially fibre-channel links to the host, in
+contemporary terms. They were working on a
+[PDP-10](https://en.wikipedia.org/wiki/PDP-10), which was a huge machine by
+comparison, with infinitely fast screens.
 
 So they could have funny commands with the screen shimmering and all that, and
 meanwhile, I'm sitting at home in sort of World War II surplus housing at
@@ -529,7 +534,8 @@ kilobytes.
 
 **LM:** Do you still use vi?
 
-**BJ:** No, because I mostly use Netscape.
+**BJ:** No, because I mostly use
+[Netscape](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29).
 
 **LM:** To write code?
 
@@ -592,13 +598,17 @@ that need ...
 
 **BJ:** We've had windowing systems, several of them, for many years. The
 presence or absence of a windowing system didn't win or lose the war. We have
-had CDE and Open Windows and X-Windows and NeWS.
+had [CDE](https://en.wikipedia.org/wiki/Common_Desktop_Environment) and [Open
+Windows](https://en.wikipedia.org/wiki/OpenWindows) and
+[X-Windows](https://en.wikipedia.org/wiki/X_Window_System) and
+[NeWS](https://en.wikipedia.org/wiki/NeWS).
 
 We've had applications too. We've had all of these things. I suggest that the
 desktop war was not won based on technical merit, but on business decisions.
-Microsoft came along and took over the apps base with Office. Office locked
-people in to the point where corporation don't feel they can change their
-desktops, not because they're locked to Windows but to Microsoft Office.
+Microsoft came along and took over the apps base with
+[Office](https://en.wikipedia.org/wiki/Microsoft_Office). Office locked people
+in to the point where corporation don't feel they can change their desktops,
+not because they're locked to Windows but to Microsoft Office.
 
 Now what's happening is the wind is blowing hard for the companies to put
 everything on the Net. Make the browser the access point for the desktops. So
@@ -629,9 +639,10 @@ to be the lowest-quality consumer products ever built and manufactured in any
 scale.
 
 It's similar to how Detroit got itself to where they manufactured incredibly
-low-quality cars, which coincided in history with GM's maximum market share.
-What happens is monopolists don't tend to value product quality. Very high
-market share is what they value.
+low-quality cars, which coincided in history with
+[GM](https://en.wikipedia.org/wiki/General_Motors)'s maximum market share. What
+happens is monopolists don't tend to value product quality. Very high market
+share is what they value.
 
 As GM's market share was declining, it always talked about getting back market
 share. Why didn't they talk about making products that people wanted to buy
