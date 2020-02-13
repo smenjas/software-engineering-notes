@@ -104,7 +104,6 @@ graph = {1: [2],
   - [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
 - [Dijkstra's shortest path first (SPF) algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 - [Flooding algorithm](https://en.wikipedia.org/wiki/Flooding_algorithm)
-- [
 - [Hungarian algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm)
 - [Nearest neighbor algorithm](https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm)
   - [*k*-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
