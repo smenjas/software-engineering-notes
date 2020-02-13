@@ -6,7 +6,7 @@
 - A connection can have a weight or cost.
 - A graph with directions is called a [directed graph, or digraph](https://en.wikipedia.org/wiki/Directed_graph).
 - A graph with weights is called a weighted graph.
-- You may want to visit every node (the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem%29).
+- You may want to visit every node: the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
 - You may want to find the shortest or cheapest path.
 
 # Representations
