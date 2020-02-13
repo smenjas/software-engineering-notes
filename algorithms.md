@@ -1,7 +1,9 @@
 # [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
-Example: [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
-## Sorting algorithms
+- [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+- [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+## [Sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 - [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
@@ -12,7 +14,7 @@ Example: [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - [PageRank](https://en.wikipedia.org/wiki/PageRank)
 - [TrustRank](https://en.wikipedia.org/wiki/TrustRank)
 
-## Search algorithms
+## [Search algorithms](https://en.wikipedia.org/wiki/Search_algorithm)
 - [Linear search](https://en.wikipedia.org/wiki/Linear_search)
 - [Binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Divide and conquer](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm)
@@ -20,6 +22,3 @@ Example: [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search)
 - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 - [General Problem Solver](https://en.wikipedia.org/wiki/General_Problem_Solver)
-
-## Graph Routing Algorithms
-- [Travelling salesman problem](https://en.wikipedia.org/wiki/Traveling_salesman_problem)
