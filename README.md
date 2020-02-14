@@ -7,8 +7,6 @@
 ## Books
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
-- [Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 - [The Art of SQL](http://shop.oreilly.com/product/9780596008949.do)
 - [The Algorithm Design Manual](http://www.algorist.com/)
 - [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment)
