@@ -1,5 +1,21 @@
 # Software Engineering Notes
 
+- [Web Developer Roadmap](#web-developer-roadmap)
+- [Books](#books)
+- [Practice writing small programs](#practice-writing-small-programs)
+- [Fix bugs in open source projects](#fix-bugs-in-open-source-projects)
+- [Study relational databases](#study-relational-databases)
+- [Practice building web apps from scratch](#practice-building-web-apps-from-scratch)
+- [Practice answering system design questions](#practice-answering-system-design-questions)
+- [Algorithms](#algorithms)
+- [Massive Open Online Courses (MOOCs)](#massive-open-online-courses-moocs)
+  - [MIT Open Learning](#mit-open-learning)
+- [Software development process](#software-development-process)
+  - [Lightweight methodology](#lightweight-methodology)
+- [License](#license)
+
+---
+
 ## Web Developer Roadmap
 - [Kamran Ahmed's Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Free Code Camp's 2019 Web Developer Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
@@ -21,7 +37,7 @@
 - [Advent of Code](https://adventofcode.com/)
   - [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
 
-## Fix open bugs on open source projects
+## Fix bugs in open source projects
 - [Django - Easy Pickings](https://code.djangoproject.com/query?status=!closed&easy=1)
 - [Bugcrowd - Public Bug Bounty List](https://www.bugcrowd.com/bug-bounty-list/)
 - [HackerOne - Bug Bounty Programs](https://hackerone.com/bug-bounty-programs)
@@ -30,7 +46,7 @@
 ## Study relational databases
 - [Use the Index, Luke!](https://use-the-index-luke.com/sql/table-of-contents)
 
-## Practice building web applications from scratch
+## Practice building web apps from scratch
 - [Django](https://www.djangoproject.com/)
 - [Flask](https://www.palletsprojects.com/p/flask/)
 
