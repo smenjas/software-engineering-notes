@@ -59,6 +59,8 @@
 - [Educative - Recursion for Coding Interviews](https://www.educative.io/m/recursion-interview)
 - [Interview Cake - The Intuitive Guide to Data Structures & Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
 - [Interview Cake](https://www.interviewcake.com/)
+- [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
+- [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 
 ## Massive Open Online Courses (MOOCs)
 - [Coursera](https://www.coursera.org/)
