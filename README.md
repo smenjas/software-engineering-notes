@@ -9,9 +9,11 @@
 - [Practice answering system design questions](#practice-answering-system-design-questions)
 - [Algorithms](#algorithms)
 - [Massive Open Online Courses (MOOCs)](#massive-open-online-courses-moocs)
+  - [Khan Academy](#khan-academy)
   - [MIT Open Learning](#mit-open-learning)
 - [Software development process](#software-development-process)
   - [Lightweight methodology](#lightweight-methodology)
+- [Interviewing](#interviewing)
 - [License](#license)
 
 ---
@@ -69,6 +71,13 @@
 - [Educative](https://www.educative.io/)
 - [edX Computer Science](https://www.edx.org/course/subject/computer-science)
 
+### [Khan Academy](https://www.khanacademy.org/computing/computer-science/)
+- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+- [Journey into information theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
+- [How computers work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
+- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+
 ### [MIT Open Learning](https://openlearning.mit.edu/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library)
@@ -97,6 +106,10 @@
       - [Open Unified Process](https://en.wikipedia.org/wiki/OpenUP)
   - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
     - [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+
+## Interviewing
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+- [Recruitment process for a Google job (SRE, Site Reliability Engineer)](http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer/)
 
 ## License
 
