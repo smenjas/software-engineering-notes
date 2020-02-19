@@ -52,6 +52,7 @@
 
 ## Practice answering system design questions
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
 
 ## Algorithms
 - [Teach Yourself Computer Science - Algorithms](https://teachyourselfcs.com/#algorithms)
