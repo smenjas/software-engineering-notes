@@ -14,6 +14,7 @@
 - [Software development process](#software-development-process)
   - [Lightweight methodology](#lightweight-methodology)
 - [Interviewing](#interviewing)
+- [Principles](#principles)
 - [License](#license)
 
 ---
@@ -110,6 +111,12 @@
 ## Interviewing
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [Recruitment process for a Google job (SRE, Site Reliability Engineer)](http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer/)
+
+## Principles
+- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter), or principle of least knowledge:
+  - Don't talk to strangers.
+  - Only talk to your closest friends.
+  - Know as little as possible about others.
 
 ## License
 
