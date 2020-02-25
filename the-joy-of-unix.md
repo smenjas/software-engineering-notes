@@ -488,7 +488,8 @@ Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) came to Berkeley and
 brought this broken
 [Pascal](https://en.wikipedia.org/wiki/Pascal_%28programming_language%29)
 system, and we got this summer job to fix it. While we were fixing it, we got
-frustrated with the editor we were using which was named ed. ed is certainly
+frustrated with the editor we were using which was named
+[ed](https://en.wikipedia.org/wiki/Ed_%28text_editor%29). ed is certainly
 frustrating.
 
 We got this code from a guy named [George
@@ -503,10 +504,11 @@ was really exciting to finally use lowercase.
 **BJ:** '76 or **'77**. It was the summer
 [Carter](https://en.wikipedia.org/wiki/Jimmy_Carter) was president. So we
 modified em and created en. I don't know if there was an eo or an ep but
-finally there was ex. [laughter] I remember en but I don't know how it got to
-ex. So I had a terminal at home and a 300
-[baud](https://en.wikipedia.org/wiki/Baud) modem so the cursor could move
-around and I just stayed up all night for a few months and wrote vi.
+finally there was [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29).
+[laughter] I remember en but I don't know how it got to ex. So I had a terminal
+at home and a 300 [baud](https://en.wikipedia.org/wiki/Baud) modem so the
+cursor could move around and I just stayed up all night for a few months and
+wrote vi.
 
 **LM:** So you didn't really write vi in one weekend like everybody says?
 
