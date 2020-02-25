@@ -500,7 +500,7 @@ was really exciting to finally use lowercase.
 
 **LM:** What year was that?
 
-**BJ:** '76 or '77. It was the summer
+**BJ:** '76 or **'77**. It was the summer
 [Carter](https://en.wikipedia.org/wiki/Jimmy_Carter) was president. So we
 modified em and created en. I don't know if there was an eo or an ep but
 finally there was ex. [laughter] I remember en but I don't know how it got to
