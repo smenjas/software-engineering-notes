@@ -58,19 +58,21 @@
 - [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
 
 ## Algorithms
-- [Teach Yourself Computer Science - Algorithms](https://teachyourselfcs.com/#algorithms)
-- [Educative - Mastering Data Structures: An interview refresher](https://www.educative.io/m/data-structures)
-- [Educative - Recursion for Coding Interviews](https://www.educative.io/m/recursion-interview)
-- [Interview Cake - The Intuitive Guide to Data Structures & Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+- [Educative](https://www.educative.io/)
+  - [Educative - Mastering Data Structures: An interview refresher](https://www.educative.io/m/data-structures)
+  - [Educative - Recursion for Coding Interviews](https://www.educative.io/m/recursion-interview)
 - [Interview Cake](https://www.interviewcake.com/)
+  - [Interview Cake: The Intuitive Guide to Data Structures & Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+  - [Interview Cake: Big O Notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
+- [Teach Yourself Computer Science - Algorithms](https://teachyourselfcs.com/#algorithms)
 
 ## Massive Open Online Courses (MOOCs)
 - [Coursera](https://www.coursera.org/)
-- [Udacity](https://www.udacity.com/)
 - [Educative](https://www.educative.io/)
 - [edX Computer Science](https://www.edx.org/course/subject/computer-science)
+- [Udacity](https://www.udacity.com/)
 
 ### [Khan Academy](https://www.khanacademy.org/computing/computer-science/)
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
