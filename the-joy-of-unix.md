@@ -426,7 +426,7 @@ one guy in Austria and one in Australia. No one else contributed much of
 substance that I recall.
 
 **LM:** Do you believe that the BSD guys in general have a different philosophy
-toward software development then the Linux guys do?
+toward software development than the Linux guys do?
 
 **BJ:** No. I think that if you exclude device drivers, you'd find that there's
 a bit of a myth operating here; that a whole lot of people wrote the system. It
