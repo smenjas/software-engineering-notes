@@ -102,11 +102,11 @@ to seek denial." And we were operating with that philosophy.
 
 But there were huge amounts of money involved and we were becoming pretty
 visible. So eventually we decided to send
-[AT&T](https://en.wikipedia.org/wiki/AT&T); a letter asking them: "Is this okay
+[AT&T](https://en.wikipedia.org/wiki/AT&T) a letter asking them: "Is this okay
 what we're doing?" And 18 months later they sent a letter back: "We take no
 position." We won't answer your question. So that's what it was like to deal
 with a regulated monopoly of lawyers. That same sort of legal structure is what
-caused [AT&T;] to license the transistor for nothing.
+caused [AT&T] to license the transistor for nothing.
 
 So we couldn't actually get an answer from them and it was only years later
 that this whole fracas erupted around who owns the code. It turned out their
@@ -240,7 +240,7 @@ to support Linux?
 
 **BJ:** I don't actually know. I'm more involved in Java and
 [Jini](https://en.wikipedia.org/wiki/Jini). The company's very large -- we have
-like 30,000 people -- and I probably get involved with about half of the R&D.;
+like 30,000 people -- and I probably get involved with about half of the R&D.
 The [Solaris](https://en.wikipedia.org/wiki/Solaris_%28operating_system%29)
 stuff I have the least to do with.
 
@@ -355,7 +355,7 @@ don't get it. I don't know how it's going to work. People don't like to pay for
 service.
 
 The whole proposition with Linux is that nobody can control the operating
-system. Some invisible hand controls it; a community controls it. Any
+system. Some invisible hand controls it a community controls it. Any
 individual company can't affect where it goes. How is everybody going to use
 this in a sense? The Linux companies are hobbled by it because if you say they
 can add value, then I say it's going to fragment Linux.
@@ -402,9 +402,9 @@ to spend money to do that and it's hard work. In return, you get the value that
 the source code's available so the customer can become more self-reliant. I
 think self-reliance is a good thing.
 
-**LM:** Were you in favor of Sun's decision to move to AT&T; Unix with Solaris?
+**LM:** Were you in favor of Sun's decision to move to AT&T Unix with Solaris?
 
-**BJ:** It was hard to do a deal with AT&T; and it was hard to work with them.
+**BJ:** It was hard to do a deal with AT&T and it was hard to work with them.
 It was a very close call and I went into Scott's office and I said to him: This
 is a really close call and I can make the deal happen if you want. There are
 pluses and minuses. Personally I think it's a plus because I think a unified
@@ -418,10 +418,12 @@ It's a CEO call.
 cultural community that's surrounding Linux right now and the community that
 surrounded BSD when you were developing it?
 
-**BJ:** No. Our community was so small. It was Robert Elz and the people at
-Berkeley and the people at [Bell
-Labs](https://en.wikipedia.org/wiki/Bell_Labs). There was one guy in Austria
-and one in Australia. No one else contributed much of substance that I recall.
+**BJ:** No. Our community was so small. It was [Robert
+Elz](https://en.wikipedia.org/wiki/Kevin_Robert_Elz) and the people at
+[Berkeley](https://en.wikipedia.org/wiki/Computer_Systems_Research_Group) and
+the people at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs). There was
+one guy in Austria and one in Australia. No one else contributed much of
+substance that I recall.
 
 **LM:** Do you believe that the BSD guys in general have a different philosophy
 toward software development then the Linux guys do?
