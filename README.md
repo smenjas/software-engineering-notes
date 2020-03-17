@@ -32,6 +32,7 @@
 - [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment)
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+- [The Architecture of Open Source Applications](http://www.aosabook.org/)
 
 ## Practice writing small programs
 - [Exercism: Code practice and mentorship for everyone](https://exercism.io/)
