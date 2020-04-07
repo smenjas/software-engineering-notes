@@ -55,6 +55,7 @@
 - [Flask](https://www.palletsprojects.com/p/flask/)
 
 ## Practice answering system design questions
+- [Google: How Search Works](https://www.google.com/search/howsearchworks/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
 
