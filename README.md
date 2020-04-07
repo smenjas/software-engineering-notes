@@ -73,6 +73,7 @@
 - [Coursera](https://www.coursera.org/)
 - [Educative](https://www.educative.io/)
 - [edX Computer Science](https://www.edx.org/course/subject/computer-science)
+- [Tyler McGinnis](https://tylermcginnis.com/)
 - [Udacity](https://www.udacity.com/)
 
 ### [Khan Academy](https://www.khanacademy.org/computing/computer-science/)
