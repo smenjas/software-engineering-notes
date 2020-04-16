@@ -1,6 +1,6 @@
 # Data Engineering Curriculum
 
-1. Learn Python inside out, including:
+- Learn Python inside out, including:
   - syntax
   - libraries
   - decorators, and the decorator design pattern
@@ -16,12 +16,12 @@
   - scaling horizontally & vertically
   - robustness, i.e. error handling
   - usability
-2. Learn frameworks (like Django) & libraries
+- Learn frameworks (like Django) & libraries
   - Django
   - machine learning libraries, like TensorFlow & PyTorch
   - Kafka
-3. Create a project.
+- Create a project.
   - History
   - data streaming?
-4. Join open source projects.
+- Join open source projects.
   - OpenTransit
