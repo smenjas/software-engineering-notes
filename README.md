@@ -34,7 +34,6 @@
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Effective python (Advance Python)](https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3/ref=sr_1_3?dchild=1&keywords=Effective+python&qid=1587017622&sr=8-3)
 
 ## Data-Engineering-Tools
