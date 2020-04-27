@@ -38,6 +38,7 @@
 - [Site Reliability Engineering Books](https://landing.google.com/sre/books/)
   - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
   - [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+- [Software Engineering at Google](http://shop.oreilly.com/product/0636920296423.do)
 
 ## Data-Engineering-Tools
 - [Pandas](https://pandas.pydata.org/)
