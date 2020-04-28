@@ -34,7 +34,7 @@
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/)
-- [Effective python (Advance Python)](https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3/ref=sr_1_3?dchild=1&keywords=Effective+python&qid=1587017622&sr=8-3)
+- [Effective Python](https://effectivepython.com/)
 - [Site Reliability Engineering Books](https://landing.google.com/sre/books/)
   - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
   - [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
@@ -42,7 +42,7 @@
 
 ## Data-Engineering-Tools
 - [Pandas](https://pandas.pydata.org/)
-- [Numpy](https://numpy.org/)
+- [NumPy](https://numpy.org/)
 - [Sidekit](https://projets-lium.univ-lemans.fr/sidekit/)
 
 ## Practice writing small programs
