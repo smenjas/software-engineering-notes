@@ -1,5 +1,5 @@
 # Web Development Roadmap
-My notes from [Free Code Camp's 2019 Web Developer Roadmap](ttps://www.freecodecamp.org/news/2019-web-developer-roadmap/),
+My notes from [Free Code Camp's 2019 Web Developer Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/),
 which is just 3 of [Kamran Ahmed's Web Developer Roadmaps](https://roadmap.sh/), plus some commentary.
 
 These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
@@ -10,6 +10,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 
 ---
 
+# Contents
 - [Any Web Developer](#any-web-developer)
 - [Front End Web Development Roadmap](#front-end-web-development-roadmap)
   - [HTML](#html)
@@ -34,11 +35,11 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [DevOps Roadmap](#devops-roadmap)
   - [Learn a programming language](#learn-a-programming-language)
   - [Understand OS concepts](#understand-os-concepts)
-  - [Learn about managing servers](#learn-about-managing-servers)
+  - [Manage Servers](#manage-servers)
   - [Networking & Security](#networking--security)
   - [Know How to Set Up Services](#know-how-to-set-up-services)
   - [Infrastructure as code](#infrastructure-as-code)
-  - [Learn how to monitor software & infrastructure](#learn-how-to-monitor-software--infrastructure)
+  - [Monitor Software & Infrastructure](#monitor-software--infrastructure)
   - [Cloud Providers](#cloud-providers)
 
 ---
@@ -59,6 +60,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [Character encodings](https://en.wikipedia.org/wiki/Character_encoding) e.g. [ASCII](https://en.wikipedia.org/wiki/ASCII) & [Unicode](https://en.wikipedia.org/wiki/Unicode)
 
+---
 
 # [Front End Web Development Roadmap](https://roadmap.sh/frontend)
 
@@ -206,6 +208,8 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - may eventually replace Javascript
 - this will take a while, so prioritize Javascript over WebAssembly
 
+---
+
 # [Back End Web Development Roadmap](https://roadmap.sh/backend)
 
 1. Learn a programming language.
@@ -273,6 +277,8 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 
 23. Keep exploring. Learn [profiling](https://en.wikipedia.org/wiki/Profiling_%28computer_programming%29), [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), etc.
 
+---
+
 # [DevOps Roadmap](https://roadmap.sh/devops)
 
 ## Learn a programming language
@@ -293,7 +299,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [memory](https://en.wikipedia.org/wiki/Computer_memory) & [storage](https://en.wikipedia.org/wiki/Computer_data_storage)
 - [file systems](https://en.wikipedia.org/wiki/File_system)
 
-## Learn about managing servers
+## Manage servers
 - [operating systems](https://en.wikipedia.org/wiki/Operating_system)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
   - [Unix](https://en.wikipedia.org/wiki/Unix)
@@ -389,7 +395,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
   - [Circle CI](https://circleci.com/)
   - [GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 
-## Learn how to monitor software & infrastructure
+## Monitor Software & Infrastructure
 - infrastructure monitoring
   - [Nagios](https://www.nagios.org/)
   - [Icinga](https://icinga.com/)
