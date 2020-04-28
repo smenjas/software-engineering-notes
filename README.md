@@ -2,7 +2,6 @@
 
 - [Web Developer Roadmap](#web-developer-roadmap)
 - [Books](#books)
-- [Data Engineering Tools](#Data-Engineering-Tools)
 - [Practice writing small programs](#practice-writing-small-programs)
 - [Fix bugs in open source projects](#fix-bugs-in-open-source-projects)
 - [Study relational databases](#study-relational-databases)
@@ -34,16 +33,10 @@
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/)
-- [Effective Python](https://effectivepython.com/)
 - [Site Reliability Engineering Books](https://landing.google.com/sre/books/)
   - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
   - [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 - [Software Engineering at Google](http://shop.oreilly.com/product/0636920296423.do)
-
-## Data-Engineering-Tools
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [Sidekit](https://projets-lium.univ-lemans.fr/sidekit/)
 
 ## Practice writing small programs
 - [Exercism: Code practice and mentorship for everyone](https://exercism.io/)
