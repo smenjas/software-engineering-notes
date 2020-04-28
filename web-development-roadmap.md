@@ -52,12 +52,12 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [data structures](https://en.wikipedia.org/wiki/Data_structure) & [algorithms](https://en.wikipedia.org/wiki/Algorithm)
 - [Git for version control](https://git-scm.com/book/)
 - [GitHub](https://github.com/)
-- [Software licenses (e.g. restrictive vs. permissive open source, proprietary, etc.)](https://en.wikipedia.org/wiki/Software_license)
+- [Software licenses](https://en.wikipedia.org/wiki/Software_license): restrictive vs. permissive open source, proprietary, etc.
 - [semantic versioning](https://semver.org/)
 - [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
 - [HTTP/S](https://en.wikipedia.org/wiki/HTTP) & [Web APIs](https://en.wikipedia.org/wiki/Web_API)
 - [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
-- [Character encodings](https://en.wikipedia.org/wiki/Character_encoding) (e.g. [ASCII](https://en.wikipedia.org/wiki/ASCII) & [Unicode](https://en.wikipedia.org/wiki/Unicode)
+- [Character encodings](https://en.wikipedia.org/wiki/Character_encoding) e.g. [ASCII](https://en.wikipedia.org/wiki/ASCII) & [Unicode](https://en.wikipedia.org/wiki/Unicode)
 
 
 # [Front End Web Development Roadmap](https://roadmap.sh/frontend)
