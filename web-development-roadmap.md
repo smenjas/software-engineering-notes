@@ -2,15 +2,48 @@
 My notes from [Free Code Camp's 2019 Web Developer Roadmap](ttps://www.freecodecamp.org/news/2019-web-developer-roadmap/),
 which is just 3 of [Kamran Ahmed's Web Developer Roadmaps](https://roadmap.sh/), plus some commentary.
 
-Links added later.
-
 These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
-- any web developer
-- [a front end web developer](https://roadmap.sh/frontend)
-- [a back end web developer](https://roadmap.sh/backend)
-- [a devops person (a.k.a. site reliability engineer or system administrator)](https://roadmap.sh/devops)
+- [any web developer](#any-web-developer)
+- [a front end web developer](#front-end-web-development-roadmap)
+- [a back end web developer](#back-end-web-development-roadmap)
+- [a devops person (a.k.a. system administrator or site reliability engineer)](#devops-roadmap)
 
-# Required for any path:
+---
+
+- [Any Web Developer](#any-web-developer)
+- [Front End Web Development Roadmap](#front-end-web-development-roadmap)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Javascript](#javascript)
+  - [Package managers](#package-managers)
+  - [CSS Preprocessors](#css-preprocessors)
+  - [CSS Frameworks](#css-frameworks)
+  - [CSS Architecture](#css-architecture)
+  - [Build Tools](#build-tools)
+  - [Pick a Javascript framework](#pick-a-javascript-framework)
+  - [CSS in JS](#css-in-js)
+  - [Testing front end web apps](#testing-front-end-web-apps)
+  - [Progressive Web Apps (PWAs)](#progressive-web-apps-pwas)
+  - [Type Checkers](#type-checkers)
+  - [Server Side Rendering](#server-side-rendering)
+  - [Static Site Generators](#static-site-generators)
+  - [Desktop Applications](#desktop-applications)
+  - [Mobile Applications](#mobile-applications)
+  - [WebAssembly](#webassembly)
+- [Back End Web Development Roadmap](#back-end-web-development-roadmap)
+- [DevOps Roadmap](#devops-roadmap)
+  - [Learn a programming language](#learn-a-programming-language)
+  - [Understand OS concepts](#understand-os-concepts)
+  - [Learn about managing servers](#learn-about-managing-servers)
+  - [Networking & Security](#networking--security)
+  - [Know How to Set Up Services](#know-how-to-set-up-services)
+  - [Infrastructure as code](#infrastructure-as-code)
+  - [Learn how to monitor software & infrastructure](#learn-how-to-monitor-software--infrastructure)
+  - [Cloud Providers](#cloud-providers)
+
+---
+
+# Any Web Developer
 - [basic terminal usage (bash)](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle),
   [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it),
@@ -26,7 +59,8 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [Character encodings](https://en.wikipedia.org/wiki/Character_encoding) (e.g. [ASCII](https://en.wikipedia.org/wiki/ASCII) & [Unicode](https://en.wikipedia.org/wiki/Unicode)
 
-# Front End Web Development Roadmap
+
+# [Front End Web Development Roadmap](https://roadmap.sh/frontend)
 
 ## HTML
 - [learn the basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -172,50 +206,50 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - may eventually replace Javascript
 - this will take a while, so prioritize Javascript over WebAssembly
 
-# Back End Web Development Roadmap
+# [Back End Web Development Roadmap](https://roadmap.sh/backend)
 
 1. Learn a programming language.
-- [Python 3](https://www.python.org/) is an excellent choice.
-- JavaScript is an understandable choice.
+  - [Python 3](https://www.python.org/) is an excellent choice.
+  - JavaScript is an understandable choice.
 
 2. Do a bunch of exercises.
-- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+  - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+  - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 
 3. Learn the package manager.
-- [pip for Python](https://packaging.python.org/tutorials/installing-packages/)
-- [npm](https://docs.npmjs.com/about-npm/) or [yarn](https://yarnpkg.com/en/docs/getting-started) for JavaScript
+  - [pip for Python](https://packaging.python.org/tutorials/installing-packages/)
+  - [npm](https://docs.npmjs.com/about-npm/) or [yarn](https://yarnpkg.com/en/docs/getting-started) for JavaScript
 
 4. Learn standards and best practices.
-- Learn security best practices, e.g. [OWASP](https://owasp.org/www-project-top-ten/).
+  - Learn security best practices, e.g. [OWASP](https://owasp.org/www-project-top-ten/).
 
 5. Make and distribute a package/library/module.
-- Contribute to an open source project.
+  - Contribute to an open source project.
 
 6. Learn about testing.
-- [pytest for Python](https://docs.pytest.org/)
+  - [pytest for Python](https://docs.pytest.org/)
 
 7. Write automated tests.
-- [calculate test coverage](https://en.wikipedia.org/wiki/Code_coverage)
+  - [calculate test coverage](https://en.wikipedia.org/wiki/Code_coverage)
 
 8. Learn relational databases.
-- [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) is good
-- add indexes
-- use proper storage engines
-- analyze queries
+  - [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) is good
+  - add indexes
+  - use proper storage engines
+  - analyze queries
 
 9. Create a simple application.
-- [registration & login](https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67)
-- [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-- blog
+  - [registration & login](https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67)
+  - [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+  - blog
 
 10. Learn a framework.
-- for Python, see [Django](https://www.djangoproject.com/) or [Flask](http://flask.palletsprojects.com/)
+  - for Python, see [Django](https://www.djangoproject.com/) or [Flask](http://flask.palletsprojects.com/)
 
 11. Port the application from step 9 to a framework.
 
 12. Learn a [NoSQL database](https://en.wikipedia.org/wiki/NoSQL).
-- [Mongo](https://en.wikipedia.org/wiki/MongoDB) for example
+  - [Mongo](https://en.wikipedia.org/wiki/MongoDB) for example
 
 13. Implement app level caching using [Redis](https://redis.io/topics/introduction) or [Memcached](https://memcached.org/).
 
@@ -239,7 +273,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 
 23. Keep exploring. Learn [profiling](https://en.wikipedia.org/wiki/Profiling_%28computer_programming%29), [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), etc.
 
-# DevOps Roadmap
+# [DevOps Roadmap](https://roadmap.sh/devops)
 
 ## Learn a programming language
 - [Python](https://www.python.org/)
@@ -319,7 +353,7 @@ These [roadmaps outline the skills you need](https://roadmap.sh/) to be:
 - [FTP/S](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
-## What is and how to set up a _____
+## Know How to Set Up Services
 - [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
 - [forward proxy](https://en.wikipedia.org/wiki/Proxy_server)
 - [caching server](https://en.wikipedia.org/wiki/Web_cache) (e.g. [Varnish](https://en.wikipedia.org/wiki/Varnish_%28software%29%29)
