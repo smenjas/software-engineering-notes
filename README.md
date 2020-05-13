@@ -13,6 +13,7 @@
   - [MIT Open Learning](#mit-open-learning)
 - [Software development process](#software-development-process)
   - [Lightweight methodology](#lightweight-methodology)
+- [Code Examples](#code-examples)
 - [Interviewing](#interviewing)
 - [Principles](#principles)
 - [License](#license)
@@ -116,6 +117,9 @@
       - [Open Unified Process](https://en.wikipedia.org/wiki/OpenUP)
   - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
     - [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+
+## Code Examples
+- [Programming-Idioms](https://www.programming-idioms.org/about#about-block-all-idioms)
 
 ## Interviewing
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
