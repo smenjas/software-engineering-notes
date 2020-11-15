@@ -46,6 +46,9 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [Advent of Code](https://adventofcode.com/)
   - [Advent of Code 2018](https://www.youtube.com/watch?v=Hgv6d6rrQxo&list=PLZhotmgEsCQM_p8bqiGtvBJayKOxcmSWi)
+- [edabit Challenges](https://edabit.com/challenges)
+- [JS-Challenges: Recursion Prompts](https://github.com/JS-Challenges/recursion-prompts)
+- [javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
 
 ## Fix bugs in open source projects
 - [Django - Easy Pickings](https://code.djangoproject.com/query?status=!closed&easy=1)
