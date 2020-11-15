@@ -41,6 +41,7 @@
 - [How to Design Programs](https://htdp.org/)
 
 ## Practice writing small programs
+- [freeCodeCamp Certifications](https://www.freecodecamp.org/learn/)
 - [Exercism: Code practice and mentorship for everyone](https://exercism.io/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
