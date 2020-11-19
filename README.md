@@ -50,6 +50,7 @@
 - [edabit Challenges](https://edabit.com/challenges)
 - [JS-Challenges: Recursion Prompts](https://github.com/JS-Challenges/recursion-prompts)
 - [javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
+- [Project Euler](https://projecteuler.net/)
 
 ## Fix bugs in open source projects
 - [Django - Easy Pickings](https://code.djangoproject.com/query?status=!closed&easy=1)
