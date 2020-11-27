@@ -20,16 +20,14 @@ place, and 1 in the 1s place.
 
 4 + 2 + 1 = 7
 
-So the places in decimal (base 10) are: 1, 10, 100, 1000, etc.
+- The places in decimal (base 10) are: 1, 10, 100, 1000, etc.
+- The places in decimal (base 10) are: 10^1, 10^2, 10^3, …
 
-The places in binary (base 2) are: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024,
-2048, 4096, …
+- The places in binary (base 2) are: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024,
+  2048, 4096, …
+- The places in binary (base 2) are: 2^1, 2^2, 2^3, 2^4, 2^5, …
 
-So the places in decimal (base 10) are: 10^1, 10^2, 10^3, …
-
-The places in binary (base 2) are: 2^1, 2^2, 2^3, 2^4, 2^5, …
-
-So the formula for the value of a place in a number, given a base, is:
+The formula for the value of a place in a number, given a base, is:
 ```js
 base^place = value;
 ```
@@ -48,8 +46,6 @@ How many binary digits does one hexadecimal digit represent?
 How many binary digits do you need to have 16 different values?
 
 (Those two questions are asking the same thing.)
-
-If you can answer this question, you know number theory.
 
 Hint: the answer to the questions above is the binary (base 2)
 [logarithm](https://en.wikipedia.org/wiki/Logarithm) of 16.
