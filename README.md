@@ -39,6 +39,7 @@
   - [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 - [Software Engineering at Google](http://shop.oreilly.com/product/0636920296423.do)
 - [How to Design Programs](https://htdp.org/)
+- [Haskell Programming from first principles](https://haskellbook.com/progress/)
 
 ## Practice writing small programs
 - [freeCodeCamp Certifications](https://www.freecodecamp.org/learn/)
