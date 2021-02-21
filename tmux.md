@@ -14,3 +14,4 @@ windows, tile them, detach them and then reattach them.
 
 ## References
 - [tmux: Getting Started](https://github.com/tmux/tmux/wiki/Getting-Started)
+- [superuser: How do I scroll in tmux?](https://superuser.com/questions/209437/how-do-i-scroll-in-tmux)
