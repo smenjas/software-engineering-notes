@@ -10,6 +10,7 @@ windows, tile them, detach them and then reattach them.
 | C-b "                | Split pane horizontally                 |
 | C-b o                | Navigate to the next pane               |
 | C-b _arrow key_      | Navigate to the pane in that direction  |
+| C-b [                | Enter scroll mode, q to quit            |
 
 ## References
 - [tmux: Getting Started](https://github.com/tmux/tmux/wiki/Getting-Started)
