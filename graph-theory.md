@@ -43,8 +43,6 @@ graph = {1: [2],
 - [Graph drawing](https://en.wikipedia.org/wiki/Graph_drawing)
 - [Graph enumeration](https://en.wikipedia.org/wiki/Graph_enumeration)
 - [Graph equation](https://en.wikipedia.org/wiki/Graph_equation)
-- [Graph operations](https://en.wikipedia.org/wiki/Graph_operations)
-  - [Graph rewriting](https://en.wikipedia.org/wiki/Graph_rewriting)
 - [Graph traversal (i.e. graph search)](https://en.wikipedia.org/wiki/Graph_traversal)
 - [Partially ordered set](https://en.wikipedia.org/wiki/Partially_ordered_set)
 - [Pathwidth](https://en.wikipedia.org/wiki/Pathwidth)
@@ -120,6 +118,10 @@ graph = {1: [2],
     - [Caterpillar tree](https://en.wikipedia.org/wiki/Caterpillar_tree)
     - [Polytree](https://en.wikipedia.org/wiki/Polytree)
 - [Weighted network](https://en.wikipedia.org/wiki/Weighted_network)
+
+## [Graph operations](https://en.wikipedia.org/wiki/Graph_operations)
+- Unary operations
+  - [Graph rewriting](https://en.wikipedia.org/wiki/Graph_rewriting)
 
 ## Problems
 - [3 utilities](https://en.wikipedia.org/wiki/Three_utilities_problem)
